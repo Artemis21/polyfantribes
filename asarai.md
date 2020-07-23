@@ -1,6 +1,7 @@
 # Asarai
 
-![author](https://img.shields.io/badge/author-Ⴚrim Squeaker%231224-%237289DA
+![author](https://img.shields.io/badge/author-Ⴚrim Squeaker%231224-%237289DA)
+
 The Asarai (Az-are-aye)
 
 "Cousins of the Vengir, this tribe was forced out of the square shortly after them. However, the Asarai was forced out not because of their warlike nature and dangerous military might, but because they walked among shadows and served Death itself. They were tolerated only because the Vengir defended them, but once the Vengir left, so did they. However, after spending years in the shadows, learning forbidden knowledge from the Revenants whom they share their new land with, They are finally ready to return to the war. All will learn to fear them..."
