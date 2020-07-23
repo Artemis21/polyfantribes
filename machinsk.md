@@ -1,6 +1,6 @@
 # Machinsk
 
-![author](https://img.shields.io/badge/author-KV%2D2%236983-%237289DA)
+![author](https://img.shields.io/badge/author-KV--2%236983-%237289DA)
 
 ---
 
