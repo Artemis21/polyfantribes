@@ -46,7 +46,7 @@ The Mud House costs 5 stars to build and for every nearby mound the Mud House pr
 ## Units
 
 | name | cost | health | attack | defence | range | movement | skills |
-|:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:----:|:-------|
+|:-----|:----:|:------:|:------:|:-------:|:-----:|:----:|:-------|
 | Forager | 5 | 10 | 2 | 1 | 1 | 1 | Dash, Fortify, Forage |
 | Larvae | N/A | 10 | 1 | 1 | 1 | 1 | Dash, Fortify, Grow |
 | Guard | N/A | 10 | 3 | 1 | 2 | 1 | Dash, Fortify, Poison |
