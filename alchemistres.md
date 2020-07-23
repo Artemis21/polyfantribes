@@ -2,6 +2,8 @@
 
 *Elves, dragons, giants. In a world of such magic, is there not wizardry?*
 
+![author](https://img.shields.io/badge/author-!%20Chicago%20--%20Old%20Days%20(2002)%233407-%237289DA)
+
 ---
 
 *After running out of invisibility potions, the Alchemistres came clean about the fact that they even exist to the entirety of the Square. They have only 2 types of units... but that’s okay! Because they have lots of types of potions, which allow them to do dangerous things to their foes. Set their fields on fire! Poison them! Take a page out of the Polaris’ book and freeze them solid! Or, if you want something more positive, heal yourself, give yourself abilities of other units, or just give yourself more speed! Now you’re thinking with Alchemistry.*
