@@ -8,61 +8,44 @@ The Asarai (Az-are-aye)
 
 The Asarai are a tribe based not on overwhelming force, but on stealth, subterfuge and assassination. Their troops receive specialist training, raising the cost of every troop by a third, rounded up, but later on their troops will come into their own and prove to be well worth the cost.
 
-Tribe colour: blueish-black
-Trees: hemlock
-Fruit: foxgloves
-Mountains: Vengir but flat-topped not pointed and also blue tints instead purple
+Tribe colour: blueish-black  
+Trees: hemlock  
+Fruit: foxgloves  
+Mountains: Vengir but flat-topped not pointed and also blue tints instead purple  
 
-Technologies:
-Mathematics (same name but catapults are switched to sharpshooters)
-Philosophy -> Assassination
-Free spirit -> Shadow worship
+## Technologies:
 
-Units:
-Mind bender -> Wraith
-Cost: 7
-Health: 15
-Attack: 4
-Defence: 1
-Range: 1
-Move: 1
-Skills: Dash, Stealth, Sneak
+Mathematics (same name but catapults are switched to sharpshooters)  
+Philosophy -> Assassination  
+Free spirit -> Shadow worship  
 
-Catapult -> Sharpshooter
-Cost: 6
-Health: 10
-Attack: 3
-Defence: 1.5
-Range: 2 (3)
-Move: 1
-Skills: Stealth, Precision, Fortify
+## Units:
+| replaces | name | cost | health | attack | defence | range | move | skills |
+|:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:----:|:-------|
+| Mind bender | Wraith | 7 | 15 | 4 | 1 | 1 | 1 | Dash, Stealth, Sneak |
+| Catapult | Sharpshooter | 6 | 10 | 3 | 1.5 | 2 (3) | 1 | Stealth, Precision, Fortify |
+| Giant | Revenant | N/A | 30 | 4 | 3 | 1 | 1 | Dash, Slash, Bind, Fortify |
 
-Giant -> Revenant
-Cost: N/A
-Health: 30
-Attack: 4
-Defence: 3
-Range: 1
-Move: 1
-Abilities: Dash, Slash, Bind, Fortify
-Buildings:
-Temple -> Shadow temple
-Cost: 20
-Acts like a normal temple, but can give units standing on it their advanced veterancy abilities.
+## Buildings:  
+Temple -> Shadow temple  
+Cost: 20  
+Acts like a normal temple, but can give units standing on it their advanced veterancy abilities.  
 
-Those new skill things:
-Stealth: Untargetable by ranged units if standing on a forest or mountain tile.
-Precision: If this unit doesn't move for a turn, it gets +1 range on its next attack.
-Slash: when a unit is hit by this, the other 2 units on each side of the target get hit as well
-Bind: 33% of the damage dealt by this unit is absorbed as health
+## Those new skill things:  
+Stealth: Untargetable by ranged units if standing on a forest or mountain tile.  
+Precision: If this unit doesn't move for a turn, it gets +1 range on its next attack.  
+Slash: when a unit is hit by this, the other 2 units on each side of the target get hit as well  
+Bind: 33% of the damage dealt by this unit is absorbed as health  
 
-Extra things:
+## Extra things:  
 Troops cannot upgrade to veteran unless on a shadow temple. However, when they do become veterans, they regain all health as normal, but also choose a buff. This buff is either 
-A) an additional +5 max hp 
-B) +0.5 attack (can't be selected if the unit has <1 attack or 2.9<) or 
-C) +0.5 defence (can't be selected if the unit has <1 or 2.9< defence. Additionally, once veteranised, you can pay an additional 3 stars while on a shadow temple to give them extra training, unlocking 
-A) a smoke bomb active ability that gives the troop the stealth ability for 3 turns on use, plus you can still move after using it or
-B) a throwing knife active ability with 2 range and 2 Atk, and no counterattack.
+
+1. an additional +5 max hp  
+2. +0.5 attack (can't be selected if the unit has <1 attack or 2.9<) or  
+3. +0.5 defence (can't be selected if the unit has <1 or 2.9< defence. Additionally, once veteranised, you can pay an additional 3 stars while on a shadow temple to give them extra training, unlocking:
+   1. a smoke bomb active ability that gives the troop the stealth ability for 3 turns on use, plus you can still move after using it or
+   2. a throwing knife active ability with 2 range and 2 Atk, and no counterattack.
+
 
 Fields: same as Vengir but bluer
 Game: toads
