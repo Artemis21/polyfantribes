@@ -1,6 +1,6 @@
 # Scraji
 
-![author](https://img.shields.io/badge/author-Nyrvv%234841-%237289DA
+![author](https://img.shields.io/badge/author-Nyrvv%234841-%237289DA)
 
 ---
 
