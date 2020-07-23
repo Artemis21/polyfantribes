@@ -24,17 +24,7 @@ Convert -> Madden
 
 Temple -> Altar  
 
-## Units
-
-Giant -> accursed one  
-Can use madden from range and flies like a dragon but has only 20 health  
-
-Swordsman -> Cult assassin  
-Same attack  
--defense  
-Movement of a rider  
-Has escape  
-Starts with sacrifice  
+## Units 
 
 | replaces | name | cost | health | attack | defence | range | movement | skills |
 |:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:----:|:-------|
