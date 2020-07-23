@@ -1,6 +1,6 @@
 # Asarai
 
-![author](https://img.shields.io/badge/author-Ⴚrim Squeaker%231224-%237289DA)
+![author](https://img.shields.io/badge/author-Ⴚrim%20Squeaker%231224-%237289DA)
 
 The Asarai (Az-are-aye)
 
