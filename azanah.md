@@ -1,3 +1,9 @@
+# Azanah
+
+![author](https://img.shields.io/badge/author-Twig1522%230756-%237289DA)
+
+---
+
 Philosophy-> Maddening  
 Mind Bender -> Cult Leader/priest  
 Convert-> Madden  
