@@ -13,7 +13,7 @@ An archive of Polytopia fan-made tribes
  - [x] asarai (archived)
  - [x] alchemistries (archived)
  - [x] marahat (archived)
- - [ ] assassina
+ - [x] assassina
  - [ ] smyokna
  - [ ] vloarskha
  - [ ] kolestro
