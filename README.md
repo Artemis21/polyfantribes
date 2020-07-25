@@ -26,7 +26,7 @@ An archive of Polytopia fan-made tribes
  - [x] armada
  - [x] melgursh'k
  - [x] florpictra
- - [ ] morcher
+ - [x] morcher
  - [ ] crysjhem
  - [ ] kaphelta
  - [ ] multarius
