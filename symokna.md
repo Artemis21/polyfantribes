@@ -2,9 +2,9 @@
 
 ![author](https://img.shields.io/badge/author-THomez%233628-%237289DA)
 
----
-
 *The lands of Symõknã have long been shrouded in smoke. Rumours had it that the people who lived in this land were gone for good cause of the ash. They soon saw a thick grey wall around themselves and knew that the Symõknã were coming to conquer the square.*
+
+---
 
 They are a smoke tribe and they have two special units, the Smoke Catapult and the Smotker, the super unit is the billower. They begin with the mining tech and smotker.
 
@@ -67,8 +67,10 @@ Parts of the city:
 
 Hunting
  - also unlocks the smoke house
+
 Mathematics
  - unlocks smoke catapult (r. catapult)
+
 Mining
  - unlocks the smotker
  
