@@ -28,7 +28,7 @@ An archive of Polytopia fan-made tribes
  - [x] florpictra
  - [x] morcher
  - [x] crysjhem
- - [ ] kaphelta
+ - [x] kaphelta
  - [ ] multarius
  - [ ] urgh-urgh
  - [ ] zufallilt
