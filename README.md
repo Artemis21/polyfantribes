@@ -30,7 +30,7 @@ An archive of Polytopia fan-made tribes
  - [x] crysjhem
  - [x] kaphelta
  - [x] multarius
- - [ ] urgh-urgh
+ - [x] urgh-urgh
  - [ ] zufallilt
  - [ ] paneter
  - [ ] gweni
