@@ -29,7 +29,7 @@ An archive of Polytopia fan-made tribes
  - [x] morcher
  - [x] crysjhem
  - [x] kaphelta
- - [ ] multarius
+ - [x] multarius
  - [ ] urgh-urgh
  - [ ] zufallilt
  - [ ] paneter
