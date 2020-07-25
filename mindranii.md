@@ -2,9 +2,9 @@
 
 ![author](https://img.shields.io/badge/author-Ⴚrim%20Squeaker%231224-%237289DA)
 
----
+*The Aethergates can only be formed by the release of a huge burst of aetherial energy. The Mindranii can do this in controlled environments of course, but on the field of battle the only way they have found of executing this maneuvre is the shattering of the blade of an Aetherknight, thus releasing enough energy to be manipulated into an Aethergate by an Aethermancer.*
 
-The Aethergates can only be formed by the release of a huge burst of aetherial energy. The Mindranii can do this in controlled environments of course, but on the field of battle the only way they have found of executing this maneuvre is the shattering of the blade of an Aetherknight, thus releasing enough energy to be manipulated into an Aethergate by an Aethermancer. 
+---
 
 ## Techs
 
