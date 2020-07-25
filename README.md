@@ -23,7 +23,7 @@ An archive of Polytopia fan-made tribes
  - [x] almentha
  - [x] kushar
  - [x] thundina
- - [ ] armada
+ - [x] armada
  - [ ] melgursh'k
  - [ ] florpictra
  - [ ] morcher
