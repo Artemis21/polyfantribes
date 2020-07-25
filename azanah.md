@@ -6,17 +6,20 @@
 
 ## Techs
 
-Philosophy -> Maddening 
+Philosophy -> Maddening  
 Free Spirit -> Sacrafice  
 
 ## Abilities
 
-Madden makes a unit attack those around it  
-It is no longer controlled by any tribe and it’s only goal is to do as much damage as possible  
-AI works like Nature Bunny  
+Madden
+- makes a unit attack those around it  
+- it is no longer controlled by any tribe
+- it's only goal is to do as much damage as possible  
+- AI works like Nature Bunny  
 
 Disband -> Sacrifice  
-Sacrifice can only be done at an altar which costs 10 to build and each sacrifice gives 1 population, and 100p costing 2 stars per  
+- can only be done at an altar (costs 10 to build)
+- each sacrifice gives 1 population, and 100p costing 2 stars per *\[sic.]*
  
 Convert -> Madden 
 
