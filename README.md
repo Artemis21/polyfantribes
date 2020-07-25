@@ -19,7 +19,7 @@ An archive of Polytopia fan-made tribes
  - [x] kolestro
  - [x] laturis
  - [x] dwadram
- - [ ] saywaden
+ - [x] saywaden
  - [ ] almentha
  - [ ] thundina
  - [ ] armada
