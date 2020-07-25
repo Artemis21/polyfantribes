@@ -16,7 +16,7 @@ An archive of Polytopia fan-made tribes
  - [x] assassina
  - [x] symokna
  - [x] volarskha
- - [ ] kolestro
+ - [x] kolestro
  - [ ] laturis
  - [ ] dwadram
  - [ ] saywaden
