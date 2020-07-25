@@ -14,7 +14,7 @@ An archive of Polytopia fan-made tribes
  - [x] alchemistries (archived)
  - [x] marahat (archived)
  - [x] assassina
- - [ ] smyokna
+ - [x] symokna
  - [ ] vloarskha
  - [ ] kolestro
  - [ ] laturis
