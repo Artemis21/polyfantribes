@@ -22,7 +22,7 @@ An archive of Polytopia fan-made tribes
  - [x] saywaden
  - [x] almentha
  - [x] kushar
- - [ ] thundina
+ - [x] thundina
  - [ ] armada
  - [ ] melgursh'k
  - [ ] florpictra
