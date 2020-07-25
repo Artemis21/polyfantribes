@@ -9,15 +9,15 @@ An archive of Polytopia fan-made tribes
  - [x] machinsk
  - [x] woospent
  - [x] crusondar
- - [x] azanah (archived)
- - [x] asarai (archived)
- - [x] alchemistries (archived)
- - [x] marahat (archived)
+ - [x] azanah
+ - [x] asarai
+ - [x] alchemistries
+ - [x] marahat
  - [x] assassina
  - [x] symokna
  - [x] volarskha
  - [x] kolestro
- - [ ] laturis
+ - [x] laturis
  - [ ] dwadram
  - [ ] saywaden
  - [ ] almentha
@@ -29,10 +29,10 @@ An archive of Polytopia fan-made tribes
  - [ ] morcher
  - [ ] crysjhem
  - [ ] kaphelta
- - [ ] multarius (archived)
- - [ ] urgh-urgh (archived)
- - [ ] zufallilt (archived)
- - [ ] paneter (archived)
- - [ ] gweni (archived)
- - [ ] golderu (archived)
- - [ ] hyvers (archived)
+ - [ ] multarius
+ - [ ] urgh-urgh
+ - [ ] zufallilt
+ - [ ] paneter
+ - [ ] gweni
+ - [ ] golderu
+ - [ ] hyvers
