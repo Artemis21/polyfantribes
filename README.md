@@ -15,7 +15,7 @@ An archive of Polytopia fan-made tribes
  - [x] marahat (archived)
  - [x] assassina
  - [x] symokna
- - [ ] vloarskha
+ - [x] volarskha
  - [ ] kolestro
  - [ ] laturis
  - [ ] dwadram
