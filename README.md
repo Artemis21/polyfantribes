@@ -31,7 +31,7 @@ An archive of Polytopia fan-made tribes
  - [x] kaphelta
  - [x] multarius
  - [x] urgh-urgh
- - [ ] zufallilt
+ - [x] zufallilt
  - [ ] paneter
  - [ ] gweni
  - [ ] golderu
