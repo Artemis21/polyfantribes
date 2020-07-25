@@ -18,7 +18,7 @@ An archive of Polytopia fan-made tribes
  - [x] volarskha
  - [x] kolestro
  - [x] laturis
- - [ ] dwadram
+ - [x] dwadram
  - [ ] saywaden
  - [ ] almentha
  - [ ] thundina
