@@ -2,9 +2,9 @@
 
 ![author](https://img.shields.io/badge/author-THomez%233628-%237289DA)
 
----
-
 *The Laturis respect nature and all plants. With magical tree and plant units they govern the their territory. Upon seeing the cruel treatment of nature by other tribes they have decided to end the disrespectful and cruel ways of the other tribes.*
+
+---
 
 ## Units
 
