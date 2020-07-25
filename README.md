@@ -20,11 +20,11 @@ An archive of Polytopia fan-made tribes
  - [x] laturis
  - [x] dwadram
  - [x] saywaden
- - [ ] almentha
+ - [x] almentha
+ - [x] kushar
  - [ ] thundina
  - [ ] armada
  - [ ] melgursh'k
- - [x] kushar
  - [ ] florpictra
  - [ ] morcher
  - [ ] crysjhem
