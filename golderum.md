@@ -1,6 +1,6 @@
 # Golderùm (Gol-dur-oom)
 
-![author](https://img.shields.io/badge/author-Nyrrv%234841-%237289DA)
+![author](https://img.shields.io/badge/author-Woof777%237359-%237289DA)
 
 *The Golderùm tribe inhabits the squares mesa's. Mining and selling to make profit and to create bustling cities in the valleys of the mesa.*
 
