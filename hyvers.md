@@ -1,6 +1,6 @@
 # Hyvers
 
-![author](https://img.shields.io/badge/author-Nyrrv%234841-%237289DA)
+![author](https://img.shields.io/badge/author-ThatOneKid%235541-%237289DA)
 
 *Deep beneath the square, a race of insects gained intelligence after discovering a mysterious substance. And they watched the creatures of the world above, and slowly learned their ways and their powers. Over the eons, they grew in power and size. Now from below the square, they rise to gain power over the tribes that they idolized.*
 
