@@ -1,6 +1,6 @@
 # The Zufällilt
 
-![author](https://img.shields.io/badge/author-Nyrrv%234841-%237289DA)
+![author](https://img.shields.io/badge/author-Ultragameboy%236443-%237289DA)
 
 *The Zufällilt emerge from their hibernation. They emerge in a desolate and forsaken place. Their cities now forsaken, have become mountains of ash and dust. After witnessing the chaos of the Square they decide to unify it through Zrëad.*
 
