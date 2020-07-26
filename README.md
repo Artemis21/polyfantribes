@@ -6,13 +6,13 @@ An archive of Polytopia fan-made tribes from the [Polytopia Fan Ideas Discord Se
 
 | A-C | C-H | K-M | M-S | S-Z |
 | --- | --- | --- | --- | --- |
-| [Alchemistres](/polyfantribes/tribes/alchemistres.html) | [Crysjhem](/polyfantribes/tribes/crysjhem.html) | [Kaphelta](/polyfantribes/tribes/kaphelta.html) | [Mindranii](/polyfantribes/tribes/mindranii.html) | [Scraji](/polyfantribes/tribes/scraji.html) |
-| [Almentha](/polyfantribes/tribes/almentha.html) | [Dwadram](/polyfantribes/tribes/dwadram.html) | [Klorestro](/polyfantribes/tribes/klorestro.html) | [Morcher](/polyfantribes/tribes/morcher.html) | [Symokna](/polyfantribes/tribes/symokna.html) |
-| [Armada](/polyfantribes/tribes/armada.html) | [Florpictra](/polyfantribes/tribes/florpictra.html) | [Kushar](/polyfantribes/tribes/kushar.html) | [Multarius](/polyfantribes/tribes/multarius.html) | [Thundina](/polyfantribes/tribes/thundina.html) |
-| [Asarai](/polyfantribes/tribes/asarai.html) | [Ghyrmabir](/polyfantribes/tribes/ghyrmabir.html) | [Laturis](/polyfantribes/tribes/laturis.html) | [Nocturnus](/polyfantribes/tribes/nocturnus.html) | [Urghurgh](/polyfantribes/tribes/urghurgh.html) |
-| [Assassina](/polyfantribes/tribes/assassina.html) | [Golderum](/polyfantribes/tribes/golderum.html) | [Machinsk](/polyfantribes/tribes/machinsk.html) | [Paneter](/polyfantribes/tribes/paneter.html) | [Volarskha](/polyfantribes/tribes/volarskha.html) |
-| [Azanah](/polyfantribes/tribes/azanah.html) | [Gweni](/polyfantribes/tribes/gweni.html) | [Marahat](/polyfantribes/tribes/marahat.html) | [Peekaboo](/polyfantribes/tribes/peekaboo.html) | [Woospent](/polyfantribes/tribes/woospent.html) |
-| [Crusondar](/polyfantribes/tribes/crusondar.html) | [Hyvers](/polyfantribes/tribes/hyvers.html) | [Melgurshk](/polyfantribes/tribes/melgurshk.html) | [Saywaden](/polyfantribes/tribes/saywaden.html) | [Zufallilt](/polyfantribes/tribes/zufallilt.html) |
+| [Alchemistres](tribes/alchemistres.html) | [Crysjhem](tribes/crysjhem.html) | [Kaphelta](tribes/kaphelta.html) | [Mindranii](tribes/mindranii.html) | [Scraji](tribes/scraji.html) |
+| [Almentha](tribes/almentha.html) | [Dwadram](tribes/dwadram.html) | [Klorestro](tribes/klorestro.html) | [Morcher](tribes/morcher.html) | [Symokna](tribes/symokna.html) |
+| [Armada](tribes/armada.html) | [Florpictra](tribes/florpictra.html) | [Kushar](tribes/kushar.html) | [Multarius](tribes/multarius.html) | [Thundina](tribes/thundina.html) |
+| [Asarai](tribes/asarai.html) | [Ghyrmabir](tribes/ghyrmabir.html) | [Laturis](tribes/laturis.html) | [Nocturnus](tribes/nocturnus.html) | [Urghurgh](tribes/urghurgh.html) |
+| [Assassina](tribes/assassina.html) | [Golderum](tribes/golderum.html) | [Machinsk](tribes/machinsk.html) | [Paneter](tribes/paneter.html) | [Volarskha](tribes/volarskha.html) |
+| [Azanah](tribes/azanah.html) | [Gweni](tribes/gweni.html) | [Marahat](tribes/marahat.html) | [Peekaboo](tribes/peekaboo.html) | [Woospent](tribes/woospent.html) |
+| [Crusondar](tribes/crusondar.html) | [Hyvers](tribes/hyvers.html) | [Melgurshk](tribes/melgurshk.html) | [Saywaden](tribes/saywaden.html) | [Zufallilt](tribes/zufallilt.html) |
 
 ## Credits
 
