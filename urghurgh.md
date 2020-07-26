@@ -1,6 +1,6 @@
 # Urgh-Urgh
 
-![author](https://img.shields.io/badge/author-Nyrrv%234841-%237289DA)
+![author](https://img.shields.io/badge/author-Some%20guy%237671-%237289DA)
 
 *The Urgh-Urgh were trapped in the remote forests  countless turns ago. Now their lack of technology makes their survival harder, which they compensate for by bashing their enemies before they can use their fancy knowledge.*
 
