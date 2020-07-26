@@ -8,6 +8,8 @@ from css_html_js_minify.js_minifier import js_minify_keep_comments
 
 import os
 import shutil
+import re
+import urllib.parse
 
 
 def fill_template(template: str, **values):
@@ -16,6 +18,21 @@ def fill_template(template: str, **values):
     for name in values:
         raw = raw.replace(f'{{{{ {name} }}}}', values[name])
     return raw
+
+
+def convert_badges(markdown: str):
+    """Convert badges in markdown."""
+    badges = re.findall(
+        r'!\[(.+?)\]\(https://img.shields.io/badge/'
+        r'([^\-]+)-([^\-]+)-([^\-]+?)\)',
+        markdown
+    )
+    for alt, name, value, colour in badges:
+        markdown = markdown.replace(
+            f'![{alt}](https://img.shields.io/badge/{name}-{value}-{colour})',
+            f'{name.title()}: {urllib.parse.unquote(value)}'
+        )
+    return markdown
 
 
 def md2html(raw_md):
@@ -30,7 +47,7 @@ def md2html(raw_md):
         escapeall.EscapeAllExtension(),
         smartsymbols.SmartSymbolsExtension(),
     ]
-    content = markdown.markdown(raw_md, extensions=exts)
+    content = markdown.markdown(convert_badges(raw_md), extensions=exts)
     return content
 
 
@@ -53,7 +70,7 @@ def get_tribes():
         name = file.replace('.md', '')
         title = 'Home' if name == 'index' else name.title()
         tribes[f'tribes/{name}.html'] = get_document(
-            f'tribes/{file}', 'tribe', title=name
+            f'tribes/{file}', 'tribe', title=name.title()
         )
     return tribes
 
@@ -80,7 +97,7 @@ def get_other():
         'index.html': get_document(
             'README.md', 'document', title='PolyFanTribes Home'
         ),
-    #    'CNAME': b'polytopia.fun'
+        'CNAME': b'fantribes.polytopia.fun'
     }
 
 
