@@ -1,0 +1,86 @@
+body, html {
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 a, h2 a, li a {
+  color: #7289DA;
+  text-decoration: none;
+}
+
+body.darkTheme li a {
+  text-shadow: 0 0 2px black;
+}
+body.darkTheme h1 a, body.darkTheme h2 a {
+  text-shadow: 0 0 5px black;
+}
+
+.gemoji {
+  height: 1em;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+#topnavbar {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+  font-size: 4em;
+  top: 0;
+  position: absolute;
+  background: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  z-index: 5;
+}
+.flexexpand {
+  display: none;
+}
+
+#topnavbar span, #topnavbar a {
+  text-decoration: none;
+  color: #000;
+  text-shadow: 0 0 20px black;
+  padding: 0 0.6em;
+  cursor: pointer;
+}
+
+#centralbg {
+  background-color: rgba(200, 200, 200, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  position: fixed;
+}
+
+body.darkTheme #centralbg {
+  background-color: rgba(200, 200, 200, 0.8);
+}
+
+#document {
+  margin: auto;
+  padding: 10px;
+  padding-top: 5em;
+  z-index: 4;
+  font-size: 40px;
+  position: relative;
+}
+
+#footer {
+  width: 100%;
+  z-index: 2;
+  bottom: 0;
+  position: fixed;
+  vertical-align: bottom;
+}
+
+.theme_dot {
+  z-index: 1;
+}
