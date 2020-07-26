@@ -96,10 +96,6 @@ Trees - Spiraling beanstalks
 
 ## Images
 
-![basilisk](../images/alchemistres0.jpg)
-
-*Basilisk*
-
 ![potion](../images/alchemistres1.jpg)
 
 *A Potion*
