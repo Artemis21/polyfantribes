@@ -36,4 +36,4 @@ An archive of Polytopia fan-made tribes
  - [x] gweni
  - [x] golderu
  - [x] hyvers
- - [ ] nocturnus
+ - [x] nocturnus
