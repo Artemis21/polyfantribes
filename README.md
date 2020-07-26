@@ -34,6 +34,6 @@ An archive of Polytopia fan-made tribes
  - [x] zufallilt
  - [x] paneter
  - [x] gweni
- - [ ] golderu
+ - [x] golderu
  - [ ] hyvers
  - [ ] nocturnus
