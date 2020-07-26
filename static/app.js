@@ -103,12 +103,12 @@ window.onload = function() {
   if (isOnMobile()) {
     old = document.getElementById("stylesheet").href;
     document.getElementById("stylesheet").href = old.replace("style.css", "mobile.css");
-  }
+  }/*
   if (window.innerHeight >= document.body.scrollHeight) {
     var footer = document.getElementById("footer");
     footer.style.position = "absolute";
     footer.style.bottom = 0;
-  }
+  }*/
   drawTheme();
   var button = document.getElementById("theme_button");
   button.onclick = this.switchTheme;

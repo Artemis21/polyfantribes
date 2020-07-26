@@ -72,14 +72,14 @@ ul {
 }
 
 #centralbgwrapper {
-    width: calc(60% + 20px);
-    left: 20%;
-    height: calc(100% - 1.8em - 10px);
-    font-size: 1.2em;
-    position: fixed;
-    bottom: 0;
-    overflow: hidden;
-    z-index: 4;
+  width: calc(60% + 20px);
+  left: 20%;
+  height: calc(100% - 1.8em - 10px);
+  font-size: 1.2em;
+  position: fixed;
+  bottom: 0;
+  overflow: hidden;
+  z-index: 4;
 }
 
 #centralbg {
@@ -95,13 +95,20 @@ body.darkTheme #centralbg {
   background-color: rgba(200, 200, 200, 0.8);
 }
 
+#documentwrapper {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: calc(100% - 1.8em - 16px);
+  overflow: auto;
+  z-index: 4;
+}
+
 #document {
   width: 55%;
   margin: auto;
   padding: 10px;
-  padding-top: 2em;
   z-index: 4;
-  position: relative;
   text-shadow: -1px -1px 0 #fff4;
 }
 
@@ -115,11 +122,8 @@ body.darkTheme #centralbg {
 }
 
 #footer {
-  width: 100%;
   z-index: 2;
-  bottom: 0;
-  position: relative;
-  vertical-align: bottom;
+  width: 100%;
 }
 
 .theme_dot {

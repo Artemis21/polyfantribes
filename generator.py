@@ -53,7 +53,7 @@ def get_tribes():
         name = file.replace('.md', '')
         title = 'Home' if name == 'index' else name.title()
         tribes[f'tribes/{name}.html'] = get_document(
-            f'tribes/{file}', 'tribe', name=name
+            f'tribes/{file}', 'tribe', title=name
         )
     return tribes
 
@@ -78,7 +78,7 @@ def get_other():
     return {
         '.nojekyll': b'',
         'index.html': get_document(
-            'README.md', 'document', name='PolyFanTribes Home'
+            'README.md', 'document', title='PolyFanTribes Home'
         ),
     #    'CNAME': b'polytopia.fun'
     }
