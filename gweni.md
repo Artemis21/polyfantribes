@@ -1,6 +1,6 @@
 # The Gwèni (Gwae-nee)
 
-![author](https://img.shields.io/badge/author-Nyrrv%234841-%237289DA)
+![author](https://img.shields.io/badge/author-praisetheyuppee%234071-%237289DA)
 
 *The Gwèni start their journey in the mountainous regions of Gwèniva, taming the legendary Qwìno birds for flight and war.*
 
