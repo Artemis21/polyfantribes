@@ -35,5 +35,5 @@ An archive of Polytopia fan-made tribes
  - [x] paneter
  - [x] gweni
  - [x] golderu
- - [ ] hyvers
+ - [x] hyvers
  - [ ] nocturnus
