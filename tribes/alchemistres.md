@@ -67,7 +67,7 @@ you are allowed to throw a single potion. every turn. no more. unless you get th
 
 instead of producing units other than your basic *ss warrior, you can produce potions instead
 
-![basilisk](images/alchemistres0.jpg)
+![basilisk](../images/alchemistres0.jpg)
 
 Alchemistran units can move on Basilisk spaces.
 Unless it’s the head.
@@ -81,8 +81,8 @@ Trees - Spiraling beanstalks
 When attacking a unit on a basilisk space, 2 icons will appear like when capturing a city, or making somebody a Veteran.
 One will be a tail segment. The other will be the Polytopian standing on the segment.
 
-![potion](images/alchemistres1.jpg)
-![potions](images/alchemistres2.jpg)
+![potion](../images/alchemistres1.jpg)
+![potions](../images/alchemistres2.jpg)
 
 A shade can occupy a shade with no harm.
 When tapping on an overlayed shade, you will bring up a menu showing which shade you want to move.

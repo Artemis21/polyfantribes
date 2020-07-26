@@ -56,6 +56,6 @@ They can grow fruit, these grown fruit give any unit on every unit (except super
 
 Any laturis unit in its own forest temple gets a x2 defense bonus.
 
-![willow](images/laturis0.png)
+![willow](../images/laturis0.png)
 
 *Walking Willow*

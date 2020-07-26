@@ -82,50 +82,50 @@ Their music is a low minor music, with windish instruments. The ambience is the 
 
 ## Images
 
-![smokter](images/symokna0.png)
+![smokter](../images/symokna0.png)
 
 *The Smokter*
 
-![catapult](images/symokna1.png)
+![catapult](../images/symokna1.png)
 
 *The Smoke Catapult*
 
-![warrior](images/symokna2.png)
+![warrior](../images/symokna2.png)
 
 *A Symokna Warrior*
 
-![trees](images/symokna3.png)
+![trees](../images/symokna3.png)
 
 *They live near Yadakk and so have the Kahlee trees*
 
-![trees+land](images/symokna4.png)
+![trees+land](../images/symokna4.png)
 
 *Full Picture*
 
-![land](images/symokna5.png)
+![land](../images/symokna5.png)
 
 *Their Land*
 
-![smoky-temple](images/symokna6.png)
+![smoky-temple](../images/symokna6.png)
 
 *Smoke above the mountain temple*
 
-![mountain](images/symokna7.png)
+![mountain](../images/symokna7.png)
 
 *Mountain*
 
-![smokehouse](images/symokna8.png)
+![smokehouse](../images/symokna8.png)
 
 *Smoke House*
 
-![smoke](images/symokna9.png)
+![smoke](../images/symokna9.png)
 
 *Smoke that covers the 3x3 radius*
 
-![billower](images/symokna10.png)
+![billower](../images/symokna10.png)
 
 *The Billower*
 
-![fruit](images/symokna11.png)
+![fruit](../images/symokna11.png)
 
 *Sprite for the fruit*

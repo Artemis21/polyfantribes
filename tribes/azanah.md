@@ -36,8 +36,8 @@ Temple -> Altar
 | Giant | Accursed One | N/A | 20 | 2 | 3 | 2 | 2 | Dash, Fly, Madden |
 
 
-![unit](images/azanah0.jpg)
-![snake](images/azanah1.jpg)
-![unit](images/azanah2.png)
-![cities](images/azanah3.jpg)
+![unit](../images/azanah0.jpg)
+![snake](../images/azanah1.jpg)
+![unit](../images/azanah2.png)
+![cities](../images/azanah3.jpg)
 

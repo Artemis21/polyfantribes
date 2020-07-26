@@ -48,6 +48,6 @@ The Burn effect deals 2 damage to the unit for the next two turns after it is at
 
 ## Images
 
-![unit](images/multarius0.jpg)
+![unit](../images/multarius0.jpg)
 
-![other](images/multarius1.jpg)
+![other](../images/multarius1.jpg)

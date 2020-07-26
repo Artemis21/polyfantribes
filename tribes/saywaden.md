@@ -80,6 +80,6 @@ Pan Ja Min Ti En Keb Cru Ser Ez Dil Ar We Sho Nup Hra Bes
 
 ## Images
 
-![warrior](images/saywaden0.png)
+![warrior](../images/saywaden0.png)
 
 *Saywaden warrior*

@@ -35,6 +35,6 @@ Eye of god - Horus statue
 
 ## Images
 
-![head](images/marahat0.jpg)
-![mummy](images/marahat1.png)
-![units](images/marahat2.jpg)
+![head](../images/marahat0.jpg)
+![mummy](../images/marahat1.png)
+![units](../images/marahat2.jpg)

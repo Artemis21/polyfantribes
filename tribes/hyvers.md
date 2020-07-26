@@ -38,26 +38,26 @@ Colonies
 
 ## Images
 
-![techs](images/hyvers0.png)
+![techs](../images/hyvers0.png)
 
 *Special tech tree*
 
-![warrior](images/hyvers1.png)
+![warrior](../images/hyvers1.png)
 
 *A Hyvers warrior*
 
-![terrain](images/hyvers2.jpg)
+![terrain](../images/hyvers2.jpg)
 
 *Hyvers terrain*
 
-![animal](images/hyvers3.jpg)
+![animal](../images/hyvers3.jpg)
 
 *A Hyvers animal*
 
-![buildings](images/hyvers4.jpg)
+![buildings](../images/hyvers4.jpg)
 
 *Hives, Colonies and other buildings*
 
-![buildings](images/hyvers4.jpg)
+![buildings](../images/hyvers4.jpg)
 
 *More Hyvers buildings*

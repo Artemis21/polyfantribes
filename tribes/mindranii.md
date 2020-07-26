@@ -80,15 +80,15 @@ Fruit: Holly berries (no idea why, it just seemed like a good one)
 Mountains: tall with snowy peaks, pointy  
 Land, courtesy of @THomez (THomez | A Concept Artist)  
 
-![land](images/mindranii0.png)
+![land](../images/mindranii0.png)
 
 Start with climbing
 
-![æthermage](images/mindranii1.png)
+![æthermage](../images/mindranii1.png)
 
 *æthermage*
 
-![ætherknight](images/mindranii2.png)
+![ætherknight](../images/mindranii2.png)
 
 *ætherknight*
 

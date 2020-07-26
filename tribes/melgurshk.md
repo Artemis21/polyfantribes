@@ -57,6 +57,6 @@ Leech
 
 ## Images
 
-![warrior](images/melgurshk0.png)
+![warrior](../images/melgurshk0.png)
 
 *Melgursh'k Warrior*
