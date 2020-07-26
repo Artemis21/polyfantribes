@@ -33,7 +33,7 @@ An archive of Polytopia fan-made tribes
  - [x] urgh-urgh
  - [x] zufallilt
  - [x] paneter
- - [ ] gweni
+ - [x] gweni
  - [ ] golderu
  - [ ] hyvers
  - [ ] nocturnus
