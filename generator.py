@@ -30,6 +30,8 @@ def convert_badges(markdown: str):
         old = '![{}](https://img.shields.io/badge/{}-{}-{})'.format(
             alt, name, value, colour
         )
+        print(old)
+        print(alt, name, value, colour, '\n')
         new = '{}: {}'.format(
             name.title(),
             urllib.parse.unquote(value).replace('--', '-')
