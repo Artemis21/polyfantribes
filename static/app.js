@@ -30,24 +30,25 @@ function addDot(parent) {
   dot = document.createElement("div");
   dot.classList.add("theme_dot");
   dot.style.position = "absolute";
-  var height = parent.clientHeight - 20
-  var width = parent.clientWidth - 20
+  var height = window.innerHeight - 20
+  var width = window.innerWidth - 20
   dot.style.top = ((height * Math.random()) + 10) + "px";
   dot.style.left = ((width * Math.random()) + 10) + "px";
   dot.style.height = "2px";
   dot.style.width = "2px";
   dot.style.background = "#fff";
-  parent.appendChild(dot);
+  document.body.appendChild(dot);
 }
 
 function darkTheme() {
   document.body.style.background = "#000";
   document.body.classList.add("darkTheme");
-  var pagesize = document.body.clientHeight * document.body.clientWidth;
+  var wrapper = document.getElementById("documentwrapper");
+  var pagesize = window.innerWidth * window.innerHeight;
   var dots = pagesize / 900;
   for (var i = 0; i < dots; i++ ) {
     setTimeout(function () {
-      addDot(document.body);
+      addDot(wrapper);
     }, 1);
   }
 }
