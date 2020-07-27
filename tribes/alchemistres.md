@@ -39,7 +39,6 @@ Tail
    - one will be a tail segment, the other will be the unit standing on the segment
    - you choose one to attack
 
-
 ## Potions
 
 Their strength comes in Potions, which can only be placed on any tile in the Alchemistre territory, and 1 tile away from any tile of said territory.

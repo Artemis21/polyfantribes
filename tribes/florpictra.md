@@ -26,7 +26,6 @@ Fish
 
 15% of the land is replaced with water
 
-
 ## City name syllables
 
 Afr Por

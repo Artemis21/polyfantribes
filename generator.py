@@ -22,7 +22,6 @@ def fill_template(template: str, **values):
 
 def convert_badges(markdown: str):
     """Convert badges in markdown."""
-    print(markdown)
     badges = re.findall(
         r'!\[(.+?)\]\(https://img\.shields\.io/badge/(.+)-(.+)-(.+)\)',
         markdown
@@ -36,7 +35,6 @@ def convert_badges(markdown: str):
             urllib.parse.unquote(value).replace('--', '-')
         )
         markdown = markdown.replace(old, new)
-    print('done')
     return markdown
 
 
@@ -53,6 +51,8 @@ def md2html(raw_md):
         smartsymbols.SmartSymbolsExtension(),
     ]
     content = markdown.markdown(convert_badges(raw_md), extensions=exts)
+    content = content.replace('<table>', '<div class="table-wrapper"><table>')
+    content = content.replace('</table>', '</table></div>')
     return content
 
 

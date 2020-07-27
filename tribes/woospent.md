@@ -83,7 +83,6 @@ The Mud House
 | Major | 15 | 20 | 3 | 3 | 1 | 1 | Dash, Forage |
 | Queen Woospent | N/A | 30 | 2 | 3 | 2 | 2 | Dash, Fly, Lay |
 
-
 ## Abilities
 
 Forage

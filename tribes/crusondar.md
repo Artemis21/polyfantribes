@@ -2,7 +2,6 @@
 
 ![author](https://img.shields.io/badge/author-Ⴚrim%20Squeaker%231224-%237289DA)
 
-
 *The Crusondar are a people who come from a square beyond ours. Now, they have found this one, and they are intent on ruling it. Bolstered by their religious fervour and powerful Templar units, they will not rest until this square accepts their religion and, more importantly, their rule.*
 
 ---
