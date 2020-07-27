@@ -56,3 +56,9 @@ Cross
 
 Curse
 - the unit's targets turn into bats
+
+## Images
+
+![warrior](../images/nocturnus0.jpg)
+
+*A Nocturnus warrior*
