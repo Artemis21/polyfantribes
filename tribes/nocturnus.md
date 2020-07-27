@@ -1,5 +1,7 @@
 # Nocturnus
 
+*The savage tribe nocturnus came from the dark forest, where they learned the secrets of the animals. The nocturnus warriors are savage even in the human form.*
+
 ![author](https://img.shields.io/badge/author-Eduon%230002-%237289DA)
 
 ---
