@@ -61,10 +61,8 @@ function lightTheme() {
 
 function clearDots() {
   var dots = document.getElementsByClassName("theme_dot");
-  while (dots[0]) {
-    setTimeout(function() {
-      dots[0].parentNode.removeChild(dots[0]);
-    }, 1);
+  for (var i = 0; i < dots.length; i++) {
+    dots[i].parentNode.removeChild(dots[i]);
   }
 }
 
