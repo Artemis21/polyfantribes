@@ -21,11 +21,13 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, li a:hover, p a:hove
   outline: 0;
 }
 
-body.darkTheme li a, body.darkTheme p a {
+body.darkTheme h1 a, body.darkTheme h2 a, body.darkTheme h3 a, body.darkTheme h4 a, body.darkTheme h5 {
   text-shadow: 0 0 2px black;
+  color: white;
 }
-body.darkTheme h1 a, body.darkTheme h2 a {
-  text-shadow: 0 0 5px black;
+body.darkTheme, body.darkTheme a, body.darkTheme #document {
+    color: white;
+    text-shadow: none;
 }
 
 .gemoji {
@@ -67,6 +69,13 @@ ul {
   cursor: pointer;
 }
 
+body.darkTheme #topnavbar {
+    background: #000;
+}
+body.darkTheme #topnavbar span, body.darkTheme #topnavbar a {
+  color: white;
+}
+
 .flexexpand {
   flex-grow: 999999;
 }
@@ -92,7 +101,7 @@ ul {
 }
 
 body.darkTheme #centralbg {
-  background-color: rgba(200, 200, 200, 0.8);
+  background-color: #3335;
 }
 
 #documentwrapper {
@@ -144,6 +153,14 @@ p img {
 
 table, th, td {
   border: 1px solid black;
+}
+
+body.darkTheme table, body.darkTheme th, body.darkTheme td {
+  border: 1px solid white;
+}
+
+body.darkTheme th {
+    text-shadow: 0 0 2px black;
 }
 
 table {

@@ -2,7 +2,7 @@ function setCookie(cname, cvalue) {
   var d = new Date();
   d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));
   var expires = "expires=" + d.toUTCString();
-  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;samesite=strict";
 }
 
 function getCookie(cname) {
@@ -34,7 +34,7 @@ function addDot(parent) {
   var width = parent.clientWidth - 20
   dot.style.top = ((height * Math.random()) + 10) + "px";
   dot.style.left = ((width * Math.random()) + 10) + "px";
-  dot.style.height =  "2px";
+  dot.style.height = "2px";
   dot.style.width = "2px";
   dot.style.background = "#fff";
   parent.appendChild(dot);
@@ -45,9 +45,9 @@ function darkTheme() {
   document.body.classList.add("darkTheme");
   var pagesize = document.body.clientHeight * document.body.clientWidth;
   var dots = pagesize / 900;
-  for (var i = 0; i < dots; i++ ){
+  for (var i = 0; i < dots; i++ ) {
     setTimeout(function () {
-      addDot(document.body)
+      addDot(document.body);
     }, 1);
   }
 }
@@ -90,25 +90,11 @@ function switchTheme() {
   }
 }
 
-var redirects = {
-  signup: "https://docs.google.com/forms/d/e/1FAIpQLSf9OFj-di9rcYfGcNx8vahuWXDYU0wbFRvbqnFUNAjwFGYLEQ/viewform",
-  sheet: "https://docs.google.com/spreadsheets/d/1I-ZGUjUPKO_HRKs7ZMj1rnkKdOGLn2_-6paKLy3UIvE"
-};
-
 window.onload = function() {
-  var current = location.pathname.slice(1);
-  if (redirects[current]) {
-    location.href = redirects[current];
-  };
   if (isOnMobile()) {
     old = document.getElementById("stylesheet").href;
     document.getElementById("stylesheet").href = old.replace("style.css", "mobile.css");
-  }/*
-  if (window.innerHeight >= document.body.scrollHeight) {
-    var footer = document.getElementById("footer");
-    footer.style.position = "absolute";
-    footer.style.bottom = 0;
-  }*/
+  }
   drawTheme();
   var button = document.getElementById("theme_button");
   button.onclick = this.switchTheme;
