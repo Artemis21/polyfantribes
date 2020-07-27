@@ -54,6 +54,7 @@ function darkTheme() {
 }
 
 function lightTheme() {
+  clearDots();
   document.body.classList.remove("darkTheme");
   document.body.style.backgroundImage = "linear-gradient(#f666aa, #f3d77e)";
   document.body.style.backgroundRepeat = "no-repeat";
