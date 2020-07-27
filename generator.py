@@ -23,15 +23,13 @@ def fill_template(template: str, **values):
 def convert_badges(markdown: str):
     """Convert badges in markdown."""
     badges = re.findall(
-        r'!\[(.+?)\]\(https://img\.shields\.io/badge/(.+)-(.+)-(.+)\)',
+        r'!\[(.+?)\]\(https://img\.shields\.io/badge/(.+?)-(.+)-(.+?)\)',
         markdown
     )
     for alt, name, value, colour in badges:
         old = '![{}](https://img.shields.io/badge/{}-{}-{})'.format(
             alt, name, value, colour
         )
-        print(old)
-        print(alt, name, value, colour, '\n')
         new = '{}: {}'.format(
             name.title(),
             urllib.parse.unquote(value).replace('--', '-')
