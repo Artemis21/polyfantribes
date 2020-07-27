@@ -27,6 +27,9 @@ function isOnMobile() {
 };
 
 function addDot(parent) {
+  if (getCookie("theme") == "light") {
+    return;
+  }
   dot = document.createElement("div");
   dot.classList.add("theme_dot");
   dot.style.position = "absolute";
@@ -46,7 +49,7 @@ function darkTheme() {
   var wrapper = document.getElementById("documentwrapper");
   var pagesize = window.innerWidth * window.innerHeight;
   var dots = pagesize / 900;
-  for (var i = 0; i < dots; i++ ) {
+  for (var i = 0; i < dots; i++) {
     setTimeout(function () {
       addDot(wrapper);
     }, 1);
@@ -54,7 +57,6 @@ function darkTheme() {
 }
 
 function lightTheme() {
-  clearDots();
   document.body.classList.remove("darkTheme");
   document.body.style.backgroundImage = "linear-gradient(#f666aa, #f3d77e)";
   document.body.style.backgroundRepeat = "no-repeat";
@@ -63,8 +65,8 @@ function lightTheme() {
 
 function clearDots() {
   var dots = document.getElementsByClassName("theme_dot");
-  for (var i = 0; i < dots.length; i++) {
-    dots[i].parentNode.removeChild(dots[i]);
+  while (dots[0]) {
+    dots[0].parentNode.removeChild(dots[0]);
   }
 }
 
