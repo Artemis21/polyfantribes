@@ -11,26 +11,32 @@ The Hyvers start out with modified building techs and a different tech tree.
 ## Techs
 
 Hives
+
 - allows you to build hives
 
 Swarm Tactics
+
 - allows you to upgrade your hives for 3 stars
 
 Colonies
+
 - gives you the destroy building and allows you to build colonies
 
 ## Buildings
 
 Hives
+
 - cost 2 stars
 - can be built on any empty tile
 - can be upgraded to "Upgrade Hive" for 3 stars with the "Swarm Tactics" tech
 
 Upgraded Hives
+
 - give 1 more population
 - can train a unit
 
 Colonies
+
 - cost 20 stars
 - one per city
 - give 2 stars per turn for each building adjacent to them

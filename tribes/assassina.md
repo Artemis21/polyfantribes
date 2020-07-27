@@ -30,16 +30,19 @@ Special Forces replaces philosophy
 ## Skills
 
 Hide
+
 - gives a bonus when in a forest
 - an increase of 1 attack and 1 movement
 - excludes Super Units and any special unit with light armor buff
 
 Trap
+
 - can lay down a total of 3 traps
 - they last until an enemy unit steps on them
 - doing so will remove the trap and deal 2 attack damage (enemies can see the trap)
 
 Chain
+
 - can attack a unit within 2 tiles of them
 - it can then go on to hit another target within 1 tile
 - units hit by this chain will take damage and then become stuck until the attacking unit releases them
@@ -47,6 +50,7 @@ Chain
 - the first target hit by the chain will recieve full damage then next target only revieves 1 half of that.
 
 Glide
+
 - can only be used for units standing on a mountain tile
 - useful for a unit escaping heavy fire
 - when standing on a mountain, a boost of 2 movement in any direction
@@ -56,6 +60,7 @@ Glide
 ## Buildings
 
 Dojo
+
 - can be constructed for 5 stars with a max of 1 per city
 - any special units of the Assassina standing on the Dojo may choose an infinte buff for a small price
 - buffs:

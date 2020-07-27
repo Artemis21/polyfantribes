@@ -13,36 +13,45 @@ The forests are large groups of grass, the mountains are small rocks, the game i
 ## Tech
 
 Foraging replaces organisation
+
 - allows the training of a forager (5 stars)
 
 Major Warfare replaces shields
+
 - allows the training of Majors (15 stars)
 - allows the construction of Brood (3 stars)
 
 Water construction replaces fishing
+
 - allows the construction of mud banks (2 stars)
 
 Mounds replaces sailing
+
 - allows the construction of mounds (10 stars)
 
 Hives replaces Navigation
+
 - allows the construction of hives (10 stars)
 
 Mud Whaling replaces whaling
+
 - allows the hunting of Mud Whales (recieves 15 stars)
 - Mud whales are normal whales that are on a mud bank
 - must be on a mud bank connected to the main land in order to hunt them
 
 Mud Construction replaces aquatism
+
 - allows the construction of Mud temples
 - reduces enemy unit movement by one point on mud banks
 
 Trade
+
 - allows the construction of Mud House
 
 ## Buildings
 
 Broods
+
 - cost 5 stars to make
 - can be made on any tile in the Woospents territory excluding water tiles and tiles already occupied by another building
 - resembles a cluster of 3 tall white eggs
@@ -51,6 +60,7 @@ Broods
 - only 3 Larvae will hatch from each Brood placed
 
 Mud Banks
+
 - cost 5 stars to make
 - can be built on a water tile
 - gives 1 population to the nearest city
@@ -60,15 +70,18 @@ Mud Banks
 - can only be placed in your territory
 
 Mounds
+
 - cost 10 stars to make
 - gives 2 population to the nearest city
 - can't be used as trade routes
 - has to be built on a mud bank.
 
 Hives
+
 - cost 10 stars to make and allows the training of Woosp. For every nearby mound the Hive can train one extra Woosp, must be built next to a mound.
 
 The Mud House
+
 - costs 5 stars to build
 - for every nearby mound the Mud House produces 2 stars per turn
 
@@ -86,19 +99,23 @@ The Mud House
 ## Abilities
 
 Forage
+
 - if a forager moves onto a fruit tile on the next turn the fruit will then be picked up
 - when the forager carries it back to the city it can place down the fruit and give the city 1 population
 - cannot harvest fruit in an enemies border
 
 Grow
+
 - after 1 turn a Larvae will grow into a Guard
 
 Poison
+
 - on the first hit the attack will always deal 3 damage
 - then for the next 3 turns it will deal another 2 at the start of the turn
 - poison does not stack abilities
 
 Lay
+
 - queens can lay 1 brood for 3 stars it will hatch straight into a guard after 2 turns
 - max of 1 egg in the game per queen at one time
 - eggs can be layed every where except inside enemy boundries

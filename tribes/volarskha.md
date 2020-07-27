@@ -10,17 +10,17 @@ The Volarskha Start off with the mining tech and can produce more troops that ha
 
 ## Units
 
- - Super Unit is Giant.  
- - Regular warrior has 1 defense 1 attack 8 health costs 1 star
- - No mind benders
+- Super Unit is Giant.  
+- Regular warrior has 1 defense 1 attack 8 health costs 1 star
+- No mind benders
 
 ## Spawn rates
 
- - low chance of spawning next to water
- - water rate 15–25%
- - Field, Nothing 5%
- - Field, Fruit 10%
- - Field, Crop 10%
- - Forest, Nothing 50%
- - Forest, Animals 15%
- - Forested mountains 10%
+- low chance of spawning next to water
+- water rate 15–25%
+- Field, Nothing 5%
+- Field, Fruit 10%
+- Field, Crop 10%
+- Forest, Nothing 50%
+- Forest, Animals 15%
+- Forested mountains 10%

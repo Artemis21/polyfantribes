@@ -17,6 +17,7 @@ Farm -> Quarry
 - produces one pop and 1 star
 
 Mine
+
 - produces 3 pop
 
 Forge -> Jewel Cast

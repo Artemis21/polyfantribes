@@ -11,26 +11,31 @@ The Scraji start with no techs, but access to an expanded tech tree containing t
 ## Buildings
 
 Colosseum
+
 - send unit into it for one turn, comes out as veteran for 5 stars
 - 15 stars to build
 
 ## Units
 
 Harpooner
+
 - fires weak attack at a unit within a 4 tile radius, which is pulled to the harpooner
 - that unit deals damage to the harpooner, and if that damage is enough to kill it the harpooner dies
 - harpooners cost 6 and have 5 health
 
 Fencer
+
 - in total fencers can deal damage heavier than that of a knight, but in two separate attacks
 - they have 15 health and cost 6.
 
 Ballista
+
 - fires a projectile that moves through all units necessary to reach the target
 - deals damage to all of them and extra damage to the target unit
 - 10 health, costs 8
 
 Battering Ram
+
 - slow movement
 - ignores any defense bonuses like the fortify status on enemies when attacking
 - takes no damage from a retaliating enemy

@@ -12,6 +12,7 @@ Free Spirit -> Sacrafice
 ## Abilities
 
 Madden
+
 - makes a unit attack those around it  
 - it is no longer controlled by any tribe
 - it's only goal is to do as much damage as possible  

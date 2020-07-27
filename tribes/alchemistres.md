@@ -23,21 +23,24 @@ These are the *only* units they have access to:
 ## Skills
 
 Invisible
+
 - other players cannot see the unit
 - no attack animation
 - the only way to kill the unit is to have a unit occupy the same tole that it is in
 - invisible units may occupy the same tiles as each other
-   - when tapping on overlayed invisible units, a menu appears to decide which one you want to move
+    - when tapping on overlayed invisible units, a menu appears to decide which one you want to move
 
 Eat
+
 - when killing a unit, you restore health
 
 Tail
+
 - this unit takes up multiple tiles
 - friendly units can move on top of them, except on their head
 - when attacking a basilisk tail segment with another unit on, two balloons will appear (like when capturing a city)
-   - one will be a tail segment, the other will be the unit standing on the segment
-   - you choose one to attack
+    - one will be a tail segment, the other will be the unit standing on the segment
+    - you choose one to attack
 
 ## Potions
 

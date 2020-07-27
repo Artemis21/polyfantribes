@@ -25,18 +25,22 @@ Now, the Kapheltans have returned. Armed with demonic technology (gunpowder) and
 ## Tech
 
 Free Spirit
+
 - instead of being able to get stars back from disbanding, you're able to take a city in one turn
 - takes an extra turn for an enemy to take your cities
 
 Naval Doctrine replaces Aquatism
+
 - instead of making temples, Kaphelta can make naval bases
 
 Muskets replaces Archery
+
 - instead of archers you get musketeers
 
 ## Buildings
 
 Naval Bases
+
 - double naval regen when a ship recovers next to one
 
 ## Units
@@ -48,4 +52,5 @@ Naval Bases
 ## Skills
 
 Reload
+
 - can only attack once every 2 turns

@@ -11,6 +11,7 @@ The Melgursh'k cannot upgrade any city other than capitals. All cities captured 
 ## Buildings
 
 Gaping Maw
+
 - 10 Stars
 - large mouth-like structure protruding from the ground
 - must be placed 3 spaces apart at the minimum
@@ -19,6 +20,7 @@ Gaping Maw
 - can only be placed inside the territories belonging to your tribe
 
 Tendon
+
 - replaces roads
 - connects Maws to capitals
 - functions just like their normal counterpart, but do not connect to normal cities, only capitols and maws
@@ -30,10 +32,12 @@ Tendon
 ## Techs
 
 Tendons replaces Roads
+
 - allows building Maws and Tendons
 - allows training Vorkali
 
 Trade
+
 - also allows training Leechers
 
 ## Units
@@ -47,12 +51,15 @@ Trade
 ## Skills
 
 Paid
+
 - upon killing a unit, collect stars from it equal to its disband cost
 
 Spawn Leech
+
 - can create one Leech with its turn, with a cap at three Leeches per Leecher
 
 Leech
+
 - all of the damage dealt by a Leech is given as health to the Leecher
 
 ## Images

@@ -31,9 +31,11 @@ Mathematics -> Siegecraft
 Philosophy -> Holy War
 
 Meditation
+
 - no longer allows building of mountain temples
 
 Aquatism
+
 - no longer allows building of water temples
 
 ## Units
@@ -49,6 +51,7 @@ Aquatism
 ## Buildings
 
 Church replaces Temple
+
 - Cost: 15
 - Produces 1 population
 - Upgrades same as temple but 3/4 score per upgrade
@@ -57,9 +60,11 @@ Church replaces Temple
 - Can be built on fields, forests and mountains
 
 Monastery replaces Forest Temple
+
 - Same as church, but heals 2 health per turn for enemies instead of a damage buff
 
 Cathedral
+
 - Unlocked after building at least 5 holy buildings
 - Makes all holy buildings produce 3 stars a turn
 - Only one per game
@@ -67,20 +72,25 @@ Cathedral
 ## Skills
 
 Dismount
+
 - Upon death, create a [swordsman] with [10] health
 
 Smite
+
 - An ability with attack 3
 - if this kills the enemy it will chain to a random surrounding enemy and repeat the chain process twice
 - activated ability
 
 Emplacement
+
 - Cannot attack unless it spends the turn before using the "Prepare" ability
 
 Breaching
+
 - Halves the defence of any unit attacked when it is on a city
 
 Convince
+
 - Can convert cities to ally with you (not take them over)
 - They will continue to act in accordance with their tribe (creating troops, giving stars etc.)
 - However, they will deal less damage to people of the Crusondar religion (including other converted tribes)
@@ -89,11 +99,13 @@ Convince
 - Cannot conquer cities, only convert
 
 Diplomat
+
 - Enemies cannot attack this, apparently harmless, unit, until it shows it is an enemy.
 - If they move too close to the capital (3 squares), they can be attacked
 - Also, if you have previously attacked the tribe, pilgrims can be attacked.
 
 Ward
+
 - Give a target friendly unit and a random one bordering it 6 temporary hitpoints (active ability, 3 range).
 
 # Images

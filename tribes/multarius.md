@@ -17,24 +17,30 @@
 ## Skills
 
 Explode
+
 - deals 15 damage (exactly 15, ignoring any defence) to surrounding units upon death
 - also inflicts the burn effect on them
 
 Mountaineer
+
 - has increased movement and defence in mountains.
 
 Burn
+
 - inflicts the burn effect on targets
 
 Lava Immunity
+
 - immune to the effects of lava
 
 Ranged
+
 - cannot attack units within 5 tiles
 
 ## Buildings
 
 Volcanoes
+
 - turn the four immediate tiles to their sides to lava
 - lava inflicts the opponent with the burn effect
 - for every turn a unit ends in lava it is dealt 5 damage

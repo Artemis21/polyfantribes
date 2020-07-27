@@ -19,6 +19,7 @@ The Saywaden have a modified tech tree and begin with a Granusander.
 ## Skills
 
 Granulate
+
 - if an opponent unit is next to the granusander for more than 2 turns, the unit is turned to sand
 - there is a sand residue on the tile and no other tribes unit can go onto that tile
 - the sand disappears after a turn
@@ -28,6 +29,7 @@ Granulate
 - if either is frozen, if they are still next(for more than 2 turns) to each other after they are unfrozen, then the unit(s) around the Granusander will be immediately turned to sand
 
 Wall Creation
+
 - creates a rock wall on the tile(s) next to him for 2 stars per tile
 - you choose which tiles you want the walls on
 - the walls have a health of 30 and defense of 4
@@ -37,6 +39,7 @@ Wall Creation
 ## Abilities
 
 Land Slide
+
 - costs 5 stars and can be used 5 times per turn
 - when used, all oponent units in one direction of a mountain will take damage of calculation 3 attack and 20 health
 - if any unit is on the mountain, it will go into one of the three spaces where the landslide hits if at least one is free
@@ -46,12 +49,14 @@ Land Slide
 ## Buildings
 
 Sand temple
+
 - has to be built on sand before it disappears and is worth 2 population
 - any Saywaden unit on it get +1 health and +1 defense
 - usual temple score
 - costs 20 stars to build
 
 Mountain temple
+
 - a Saywaden unit on a mountain temple will get a x2 defense bonus
 
 ## Techs

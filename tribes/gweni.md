@@ -31,6 +31,7 @@ Bird shamans can use convert which can convert any huntable animal into a bird, 
 ## Tech
 
 Bird Magic replaces philosophy
+
 - can train bird shamans
 
 ## Images

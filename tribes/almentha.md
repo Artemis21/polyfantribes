@@ -23,21 +23,26 @@ Whale - 10 stars
 No forest temple.
 
 House
+
 - 1 pop, 2 stars, must be built on land
 
 Market
+
 - 2 stars +1 star per house around it
 - 2 pop
 - costs 10 stars, must be built on land
 
 Cliff house
+
 - 2 pop, 4 stars, must be built on mountains
 
 Furnace
+
 - 2 pop per cliff house around it
 - 5 stars, must be built on land
 
 Turbine
+
 - 2 stars for every nearby sea/ocean tile
 - 2 pop, 10 stars, must be built on mountains, one per city
 
@@ -59,6 +64,7 @@ Ja Kai Ny C Dar Od Ole L Wu Zan E Ski
 ## Element mechanics
 
 Lightning
+
 - 5 stars
 - can be used thrice per turn
 - deals damage calculation of 20 health for 2 attack
@@ -67,6 +73,7 @@ Lightning
 - lasts one turn
 
 Landslide
+
 - 5 stars
 - can be used thrice per turn
 - all oponent units in one direction of a mountain will take damage of calculation 3 attack and 20 health
@@ -75,6 +82,7 @@ Landslide
 - only your own units will not get hurt or moved by the landslide
 
 Tornado
+
 - 5 stars
 - can be used once every 3 turns
 - affects a 3x3 area
@@ -84,12 +92,14 @@ Tornado
 - if a city is in the path of a tornado, the wall bonus is removed for 1 turn
 
 Flood
+
 - 5 stars
 - can be used once every 3 turns
 - affects a 3x3 area and partially floods it all
 - deals damage of 2 for 15 health to all units, except your own in the area
 
 Tsunami
+
 - 10 stars
 - can be used once every 5 turns
 - when the tsunami happens, it must start from an ocean tile
@@ -113,6 +123,7 @@ Tsunami
 - alementha units do not lose health when on flooded/partially flooded tiles
 
 Burning Forests
+
 - 10 stars
 - can be used once every 5 turns
 - starts a fire on one forest, and it spreads
@@ -120,6 +131,7 @@ Burning Forests
 - can destroy max 15 forest tiles, makes them all crop fields
 
 Making volcanoes
+
 - 15 stars
 - only 2 can be built at any one time
 - turn the four immediate tiles to their sides to lava
@@ -133,28 +145,35 @@ Making volcanoes
 ## Tech
 
 Chivalry
+
 - the burn forest ability is the new one
 
 Trade
+
 - can build the market
 
 Settlement replaces forestry
+
 - you can still take the wood for stars but can't build lumber huts
 - allows you to build houses
 
 Mathematics
+
 - you can no longer build sawmills, but can produce catapults
 
 Climatism replaces spiritualism
+
 - you can now use the lightning and tornado
 
 Aquatism
+
 - unlocks the flood, and water and ocean defense bonuses
 
 Navigation
+
 - unlocks the tsunami
 
 Terraism replaces meditation
+
 - unlocks the landslide and active volcano
 - you can still build mountain temples
-

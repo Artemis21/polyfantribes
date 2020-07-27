@@ -11,6 +11,7 @@ They start with meditation.
 ## Units
 
 Water Priests
+
 - replaces mind benders
 - can walk on water tiles
 - can't mind bend

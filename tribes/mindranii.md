@@ -20,18 +20,21 @@ Navigation
 ## Buildings
 
 University
+
 - provides 1 population
 - reduces tech costs by 3-5% (not sure yet) of the initial cost
 - one per city 
 - cost: 7
 
 Observatory
+
 - allows you to reveal one tile at the start of the turn
 - it randomly picks an undiscovered tile. Maybe it is more inclined to pick tiles near enemies?
 - There can only be one built at any time
 - Cost 20 stars
 
 The Aethergate
+
 - Upon creation, you choose an exit tile. This exit tile must be:
    1. no closer than 2 tiles away from your border
    2. not in enemy territory

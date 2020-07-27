@@ -21,6 +21,7 @@ Mining -> Black Powder
 - unlocks Sulphur Mine
 
 Roads
+
 - unlocks tunnel as well as roads
 
 Starts with climbing
@@ -47,12 +48,15 @@ Sulphur Mine
 ## Skills
 
 Beserk
+
 - this unit attacks twice and receives two counterattacks in return
 
 Piercing
+
 - negates armour buffs
 
 Inspiration
+
 - gives all surrounding friendly units +0.5 attack
 
 ## Terrain
