@@ -48,7 +48,7 @@ Naval Bases
 | replaces | name | cost | health | attack | defence | range | movement | skills |
 |:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:--------:|:-------|
 | Archer | Musketeer | 5 | 10 | 4 | 1 | 2 | 1 | Dash, Fortify, Reload |
-| Giant | Cannon | N/A | 40 | 5 | 4 | 4 | Reload |
+| Giant | Cannon | N/A | 40 | 5 | 4 | 4 | 1 | Reload |
 
 ## Skills
 
