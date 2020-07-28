@@ -64,14 +64,14 @@ Dojo
 - can be constructed for 5 stars with a max of 1 per city
 - any special units of the Assassina standing on the Dojo may choose an infinte buff for a small price
 - buffs:
-   - light armor
-     - provides an additional defence point
-     - an extra 5 health for the price of 3 stars
-     - units with light armor may not become veterans nor will they be able to change back
-     - this buff can not be applied to super units
-   - harness
-     - provides the unit with the glide skill for the price of 3 stars
-     - this buff may not be removed and can be applied to super units.
+    - light armor
+        - provides an additional defence point
+        - an extra 5 health for the price of 3 stars
+        - units with light armor may not become veterans nor will they be able to change back
+        - this buff can not be applied to super units
+    - harness
+        - provides the unit with the glide skill for the price of 3 stars
+        - this buff may not be removed and can be applied to super units.
 
 ## Images
 

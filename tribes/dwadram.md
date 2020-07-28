@@ -9,13 +9,16 @@
 ## Techs
 
 Smithing -> Delving
+
 - allows you to pay 5 stars to delve into a mountain and spawn ore there
 
 Philosophy -> Beserkerism
+
 - no literacy bonus
 - unlocks beserker
 
 Mining -> Black Powder
+
 - black powder
 - unlocks Thunderstick
 - unlocks Sulphur Mine
@@ -37,10 +40,12 @@ Starts with climbing
 ## Buildings
 
 Tunnel
+
  - Cost: 4 stars
  - Negates mountain movement debuff
 
 Sulphur Mine
+
  - Cost: 7 stars
  - Can be built on any mountain with ore
  - Gives 1 star a turn, and forges give 1 star a turn for every Sulphur Mine surrounding them.

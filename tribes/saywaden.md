@@ -62,9 +62,11 @@ Mountain temple
 ## Techs
 
 Terrasism (r. meditation)
+
 - unlocks Mountain temple, sand temple, defense bonus, peace task, psammoterra
 
 Granuding (r. shield)
+
 - unlocks Granusander(r. defender)
 
 ## Other

@@ -17,6 +17,7 @@
 ## Skills
 
 Creep
+
  - the skill that allows the creeper to function as a creeper
  - there can only be one creeper at a time
  - the creeper expands its vines each turn, one vine occupies one tile
@@ -26,10 +27,10 @@ Creep
  - each creeper can only grip every unit once
  - a unit gripped by the creeper can kill the creeper by attacking it, if not it can wait out the time till it dies
  - if not gripped only these units can destroy the creeper:
-   - any melee unit (warrior, defender, swordsman, knight ect) destroys only one vine and it has to be next to it
-   - catapult destroys only one one vine but it does not have to be next to it
-   - battle ship or ice fortress destroys all vines in a 3x3 radius of the vine attacked
-   - fire dragon destroys all vines in a 5x5 radius of the vine attacked
+    - any melee unit (warrior, defender, swordsman, knight ect) destroys only one vine and it has to be next to it
+    - catapult destroys only one one vine but it does not have to be next to it
+    - battle ship or ice fortress destroys all vines in a 3x3 radius of the vine attacked
+    - fire dragon destroys all vines in a 5x5 radius of the vine attacked
  - if the vine is frozen (it cannot be frozen by a ice archer) it cannot grow from there and will die the next turn
  - a vine cannot grip a flying unit
  

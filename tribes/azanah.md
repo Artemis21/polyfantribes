@@ -18,7 +18,8 @@ Madden
 - it's only goal is to do as much damage as possible  
 - AI works like Nature Bunny  
 
-Disband -> Sacrifice  
+Disband -> Sacrifice
+
 - can only be done at an altar (costs 10 to build)
 - each sacrifice gives 1 population, and 100p costing 2 stars per *\[sic.]*
  

@@ -9,11 +9,13 @@
 ## Techs
 
 Farming -> Terramining
+
 - unlocks quarry which replaces farms
 
 ## Buildings
 
 Farm -> Quarry
+
 - produces one pop and 1 star
 
 Mine
@@ -21,9 +23,11 @@ Mine
 - produces 3 pop
 
 Forge -> Jewel Cast
+
 - produces 2 stars for every nearby mine or quarry
 
 Windmill -> Crystal Tower
+
 - produces 1 pop for every nearby mine or quarry
 - makse the 8 tiles surrounding it have infinite movement point cost (like mountains)
 

@@ -36,10 +36,10 @@ Observatory
 The Aethergate
 
 - Upon creation, you choose an exit tile. This exit tile must be:
-   1. no closer than 2 tiles away from your border
-   2. not in enemy territory
-   3. not on a unit
-   4. on a land tile
+    1. no closer than 2 tiles away from your border
+    2. not in enemy territory
+    3. not on a unit
+    4. on a land tile
 - The exit is marked by a blue sparkly rim around the tile
 - This is visible by any team
 - Moving a friendly unit onto the Aethergate will cause them to teleport to the exit and end their turn

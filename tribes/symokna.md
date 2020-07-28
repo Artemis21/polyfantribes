@@ -19,6 +19,7 @@ They are a smoke tribe and they have two special units, the Smoke Catapult and t
 ## Skills
 
 Smoke
+
  - when used produces a 3x3 tile smoke
  - in smoke, no other tribes can see any units in the smoke 
  - player can see his own and opponents' units in the smoke
@@ -26,7 +27,8 @@ Smoke
  - smoke automatically clears after 1 turn unless a symokna troop smokes the area again
  - symokna player can see his own and opponent units and can perform any actions in the smoke as if it were not there
 
-Ranged smoke 
+Ranged smoke
+
  - same as smoke except you are able to smoke an area not directly next to you.
 
 ## City name parts
@@ -36,9 +38,11 @@ Thõ Hẽz Rã Ĩ ã Mãs H Ẽk Õõn Nã Lẽã Dẽn Ãy Pãv Lãũ
 ## Buildings
 
 Smoke house
+
  - produces 2 pop for every animal nearby
  
-Mountain temple (modified) 
+Mountain temple (modified)
+
  - when it becomes level 3 or higher, a smoke appears over it
  - any unit that is on the mountain will automatically heal 5 health.
 
@@ -56,7 +60,8 @@ Moutain, ore: 25%
 ## City parts
 
 The prism: Have three chimneys built into it on each side  
-Parts of the city:  
+Parts of the city:
+
 1. House eith tile roof and chimney
 2. Wooden house (like Bardur) with chimney
 3. Cube like brick chimney tower with windows
@@ -66,12 +71,15 @@ Parts of the city:
 ## Techs
 
 Hunting
+
  - also unlocks the smoke house
 
 Mathematics
+
  - unlocks smoke catapult (r. catapult)
 
 Mining
+
  - unlocks the smotker
  
 (There are no name changes for the techs)

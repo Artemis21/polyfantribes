@@ -9,16 +9,21 @@
 Starts with 3 warriors but no tech.
 
 ## Techs
+
 Philosophy -> Savageness
+
 - no literacy, no mind benders, but axeman
 
 Mathematics -> Anger
+
 - no catapult, but stone thrower
 
 Meditation -> Charge
+
 - attack bonus rather than defence bonus on mountains
 
 Organisation -> Degradation
+
 - can make their fruits rotten and explode
 - deals 2 damage to all surrounding enemies for 2 stars
 

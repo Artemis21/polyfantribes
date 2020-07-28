@@ -11,6 +11,7 @@ The Zufällilt start the game with the Zrëad tech and a Zîne unit.
 ## Techs
 
 Zrëad replaces Philosophy
+
 - allows training the Zîne unit
 - literacy bonus
 
