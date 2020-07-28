@@ -48,9 +48,15 @@ Naval Bases
 | replaces | name | cost | health | attack | defence | range | movement | skills |
 |:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:--------:|:-------|
 | Archer | Musketeer | 5 | 10 | 4 | 1 | 2 | 1 | Dash, Fortify, Reload |
+| Giant | Cannon | N/A | 40 | 5 | 4 | 4 | Reload |
 
 ## Skills
 
 Reload
 
 - can only attack once every 2 turns
+
+Alert
+
+- gives troops within 1 tile an extra level of defense
+- it is possible for troops defending a city to have 3 shields (one from the fortify ability, one from the wall, and one from a troop with the alert ability)
