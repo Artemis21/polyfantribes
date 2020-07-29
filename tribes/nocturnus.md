@@ -69,6 +69,4 @@ Curse
 
 ## Images
 
-![warrior](../images/nocturnus0.jpg)
-
-*A Nocturnus warrior*
+![A Nocturnus warrior](../images/nocturnus0.jpg)

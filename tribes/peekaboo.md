@@ -22,6 +22,4 @@ Once the Peekaboo get discovered, they can interact with other tribes. If they m
 
 It only takes 1 Enemy to discover the Peekaboo for everyone. Once the Peekaboo are discovered they can never go back to being hidden.
 
-![village](../images/peekaboo0.png)
-
-*Level 2 Village*
+![A Level 2 Village](../images/peekaboo0.png)

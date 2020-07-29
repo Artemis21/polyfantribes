@@ -40,30 +40,16 @@ Gol Mon Pla Re Des De Go Am Tu Ra Ou Mu
 
 ## Images
 
-![eog](../images/golderum0.jpg)
+![Eye of God](../images/golderum0.jpg)
 
-*Eye of God*
+![Grand Bazaar](../images/golderum1.jpg)
 
-![gb](../images/golderum1.jpg)
+![Gate of Power](../images/golderum2.jpg)
 
-*Grand Bazaar*
+![Tower of Wisdom](../images/golderum3.jpg)
 
-![gop](../images/golderum2.jpg)
+![Altar of Peace](../images/golderum4.jpg)
 
-*Gate of Power*
+![Park of Fortune](../images/golderum5.jpg)
 
-![tow](../images/golderum3.jpg)
-
-*Tower of Wisdom*
-
-![aop](../images/golderum4.jpg)
-
-*Altar of Peace*
-
-![pof](../images/golderum5.jpg)
-
-*Park of Fortune*
-
-![sample](../images/golderum6.jpg)
-
-*Sample Terrain*
+![Sample Terrain](../images/golderum6.jpg)

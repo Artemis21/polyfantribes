@@ -92,12 +92,44 @@ function switchTheme() {
   }
 }
 
+function setupImages() {
+  modal = document.getElementById("modal");
+  full = document.getElementById("full-img");
+  modal.onclick = function() {modal.style.display = "none"};
+  images = document.getElementById("document").getElementsByTagName("img");
+  if (!images[0]) {
+      return;
+  }
+  image_wrapper = document.createElement("div");
+  image_wrapper.classList.add("image-wrapper");
+  images[0].parentNode.appendChild(image_wrapper);
+  for (i = 0; i < images.length; i++) {
+    images[i].title = images[i].alt;
+    images[i].parentNode.style.display = "inline";
+    images[i].onclick = showImageClosure(images[i], modal, full);
+    image_wrapper.appendChild(images[i]);
+  }
+}
+
+function showImageClosure(image, modal, full) {
+    return function () {
+        showImage(image, modal, full);
+    };
+}
+
+function showImage(image, modal, full) {
+  modal.style.display = "block";
+  full.src = image.src;
+  full.title = image.title;
+}
+
 window.onload = function() {
   if (isOnMobile()) {
     old = document.getElementById("stylesheet").href;
     document.getElementById("stylesheet").href = old.replace("style.css", "mobile.css");
   }
   drawTheme();
+  setupImages();
   var button = document.getElementById("theme_button");
   button.onclick = this.switchTheme;
 };

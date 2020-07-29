@@ -35,6 +35,8 @@ Eye of god - Horus statue
 
 ## Images
 
-![head](../images/marahat0.jpg)
-![mummy](../images/marahat1.png)
-![units](../images/marahat2.jpg)
+![The tribe head](../images/marahat0.jpg)
+
+![A mummy](../images/marahat1.png)
+
+![Other Marahat units](../images/marahat2.jpg)

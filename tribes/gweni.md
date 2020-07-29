@@ -36,6 +36,4 @@ Bird Magic replaces philosophy
 
 ## Images
 
-![warrior-and-animal](../images/gweni0.jpg)
-
-*Warrior and Qwìno*
+![Warrior and Qwìno](../images/gweni0.jpg)

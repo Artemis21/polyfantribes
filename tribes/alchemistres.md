@@ -98,10 +98,6 @@ Trees - Spiraling beanstalks
 
 ## Images
 
-![potion](../images/alchemistres1.jpg)
+![A Potion](../images/alchemistres1.jpg)
 
-*A Potion*
-
-![potions](../images/alchemistres2.jpg)
-
-*More potions*
+![More potions](../images/alchemistres2.jpg)

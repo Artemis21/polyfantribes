@@ -34,7 +34,7 @@ Creep
  - if the vine is frozen (it cannot be frozen by a ice archer) it cannot grow from there and will die the next turn
  - a vine cannot grip a flying unit
  
-## Mechanics
+## Other Mechanics
 
 When cutting down forests, you need to pay 2 stars (for when you need to clear forests with few stars).
 
@@ -57,6 +57,6 @@ They can grow fruit, these grown fruit give any unit on every unit (except super
 
 Any laturis unit in its own forest temple gets a x2 defense bonus.
 
-![willow](../images/laturis0.png)
+## Images
 
-*Walking Willow*
+![Walking Willow](../images/laturis0.png)

@@ -6,6 +6,9 @@
 
 ---
 
+The Mindranii start with climbing.
+
+
 ## Techs
 
 Philosophy -> Education  
@@ -81,19 +84,13 @@ Animals: drakes (they are sort of like small wingless dragons, but clever, which
 Fields: same colour as pine trees (sort of dark green)  
 Fruit: Holly berries (no idea why, it just seemed like a good one)  
 Mountains: tall with snowy peaks, pointy  
-Land, courtesy of @THomez (THomez | A Concept Artist)  
 
-![land](../images/mindranii0.png)
+## Images
 
-Start with climbing
+![The Mindranii land](../images/mindranii0.png)
 
-![æthermage](../images/mindranii1.png)
+![An æthermage](../images/mindranii1.png)
 
-*æthermage*
+![An ætherknight](../images/mindranii2.png)
 
-![ætherknight](../images/mindranii2.png)
-
-*ætherknight*
-
-(the hat of the aetherknight is for them only. All others have the aethermage's beard and hat)
-
+(The hat of the aetherknight is for them only. All others have the aethermage's beard and hat.)

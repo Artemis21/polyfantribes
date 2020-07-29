@@ -75,16 +75,10 @@ Dojo
 
 ## Images
 
-![techs](../images/assassina0.png)
+![Expanded Climbing Branch](../images/assassina0.png)
 
-*Expanded Climbing Branch*
+![Weapons](../images/assassina1.jpg)
 
-![weapons](../images/assassina1.jpg)
+![Super Unit (Supreme Assassin)](../images/assassina2.png)
 
-![superunit](../images/assassina2.png)
-
-*Super Unit (Supreme Assassin)*
-
-![assassin](../images/assassina3.png)
-
-*of course this is the assassin normal unit (by Midjiwan)*
+![The assassin (by Midjiwan)](../images/assassina3.png)

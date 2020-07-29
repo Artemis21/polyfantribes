@@ -33,10 +33,6 @@ Windmill -> Crystal Tower
 
 ## Images
 
-![warrior](../images/crysjhem0.png)
+![A Crysjhem warrior](../images/crysjhem0.png)
 
-*Their warrior*
-
-![quarry](../images/crysjhem1.png)
-
-*The quarry*
+![The quarry](../images/crysjhem1.png)

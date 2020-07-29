@@ -32,10 +32,6 @@ LL is pronouced Y (/j/ not /i/)
 
 ## Images
 
-![warrior](../images/armada0.png)
+![The Warrior](../images/armada0.png)
 
-*The Warrior*
-
-![land](../images/armada1.png)
-
-*Their Land Tile*
+![Their land tile](../images/armada1.png)

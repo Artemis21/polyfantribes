@@ -112,10 +112,6 @@ Ward
 
 Tribe colour is RGB colour 97, 2, 2
 
-![hat](../images/crusondar0.jpg)
+![Crusondar tribe hat](../images/crusondar0.jpg)
 
-*Tribe hat (courtesy of @ThatOneKid (ThatOneConceptArtist))*
-
-![troops](../images/crusondar1.jpg)
-
-*Troops (bishop, holy symbol (not a troop), trebuchet, dismounted Templar)*
+![Troops (bishop, holy symbol (not a troop), trebuchet, dismounted Templar)](../images/crusondar1.jpg)

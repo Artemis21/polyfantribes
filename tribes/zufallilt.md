@@ -43,14 +43,8 @@ Can strengthen Zînes around it or stick an enemy unit in place. Units around th
 
 ## Images
 
-![general](../images/zufallilt0.jpg)
+![Zînes and Zufällilt terrain](../images/zufallilt0.jpg)
 
-*Zînes and terrain*
+![The Žanžźer](../images/zufallilt1.jpg)
 
-![zanzzer](../images/zufallilt1.jpg)
-
-*The Žanžźer*
-
-![animal](../images/zufallilt2.jpg)
-
-*The Viviwhen*
+![The Viviwhen](../images/zufallilt2.jpg)
