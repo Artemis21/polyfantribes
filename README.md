@@ -4,15 +4,14 @@ An archive of Polytopia fan-made tribes from the [Polytopia Fan Ideas Discord Se
 
 ## Tribes
 
-| A-C | C-H | K-M | M-S | S-Z |
-| --- | --- | --- | --- | --- |
-| [Alchemistres](tribes/alchemistres.html) | [Crysjhem](tribes/crysjhem.html) | [Kaphelta](tribes/kaphelta.html) | [Mindranii](tribes/mindranii.html) | [Scraji](tribes/scraji.html) |
-| [Almentha](tribes/almentha.html) | [Dwadram](tribes/dwadram.html) | [Klorestro](tribes/klorestro.html) | [Morcher](tribes/morcher.html) | [Symokna](tribes/symokna.html) |
-| [Armada](tribes/armada.html) | [Florpictra](tribes/florpictra.html) | [Kushar](tribes/kushar.html) | [Multarius](tribes/multarius.html) | [Thundina](tribes/thundina.html) |
-| [Asarai](tribes/asarai.html) | [Ghyrmabir](tribes/ghyrmabir.html) | [Laturis](tribes/laturis.html) | [Nocturnus](tribes/nocturnus.html) | [Urghurgh](tribes/urghurgh.html) |
-| [Assassina](tribes/assassina.html) | [Golderum](tribes/golderum.html) | [Machinsk](tribes/machinsk.html) | [Paneter](tribes/paneter.html) | [Volarskha](tribes/volarskha.html) |
-| [Azanah](tribes/azanah.html) | [Gweni](tribes/gweni.html) | [Marahat](tribes/marahat.html) | [Peekaboo](tribes/peekaboo.html) | [Woospent](tribes/woospent.html) |
-| [Crusondar](tribes/crusondar.html) | [Hyvers](tribes/hyvers.html) | [Melgurshk](tribes/melgurshk.html) | [Saywaden](tribes/saywaden.html) | [Zufallilt](tribes/zufallilt.html) |
+| A | C-G | G-L | M | N-S | S-Z |
+| --- | --- | --- | --- | --- | --- |
+| [Alchemistres](tribes/alchemistres) | [Crusondar](tribes/crusondar) | [Gweni](tribes/gweni) | [Machinsk](tribes/machinsk) | [Nocturnus](tribes/nocturnus) | [Symokna](tribes/symokna) |
+| [Almentha](tribes/almentha) | [Crysjhem](tribes/crysjhem) | [Hyvers](tribes/hyvers) | [Marahat](tribes/marahat) | [Paneter](tribes/paneter) | [Thundina](tribes/thundina) |
+| [Armada](tribes/armada) | [Dwadram](tribes/dwadram) | [Kaphelta](tribes/kaphelta) | [Melgurshk](tribes/melgurshk) | [Peekaboo](tribes/peekaboo) | [Urghurgh](tribes/urghurgh) |
+| [Asarai](tribes/asarai) | [Florpictra](tribes/florpictra) | [Klorestro](tribes/klorestro) | [Mindranii](tribes/mindranii) | [Quatzi](tribes/quatzi) | [Volarskha](tribes/volarskha) |
+| [Assassina](tribes/assassina) | [Ghyrmabir](tribes/ghyrmabir) | [Kushar](tribes/kushar) | [Morcher](tribes/morcher) | [Saywaden](tribes/saywaden) | [Woospent](tribes/woospent) |
+| [Azanah](tribes/azanah) | [Golderum](tribes/golderum) | [Laturis](tribes/laturis) | [Multarius](tribes/multarius) | [Scraji](tribes/scraji) | [Zufallilt](tribes/zufallilt) |
 
 ## Credits
 
