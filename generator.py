@@ -70,52 +70,89 @@ def get_document(document: str, template: str, **values):
 
 
 def get_tribes():
+    print(' Generating tribes...')
     tribes = {}
     for file in os.listdir('tribes'):
         name = file.replace('.md', '')
+        print(f'  Generating tribe {name.title()}...', end=' ')
         title = 'Home' if name == 'index' else name.title()
         tribes[f'tribes/{name}.html'] = get_document(
             f'tribes/{file}', 'tribe', title=name.title()
         )
+        print('  Done')
+    print(' Done')
     return tribes
 
 
 def get_static():
+    print(' Processing static files...')
     static = {}
+    print('  Gathering from static dir...', end=' ')
     files = [f'static/{file}' for file in os.listdir('static')]
+    print('Done')
+    print('  Gathering from images dir...', end=' ')
     for file in os.listdir('images'):
         files.append(f'images/{file}')
+    print('Done')
+    print('  Minifying static files...')
     for path in files:
+        print(f'   Processing static file at {path}...')
+        print(f'    Reading static file at {path}...', end=' ')
         with open(path, 'rb') as f:
             raw = f.read()
+        print('Done')
         if path.endswith('.js'):
+            print(f'    Minifying JS file at {path}...', end=' ')
             raw = js_minify_keep_comments(raw.decode()).encode()
+            print('Done')
         elif path.endswith('.css'):
+            print(f'    Minifying CSS file at {path}...', end=' ')
             raw = css_minify(raw.decode()).encode()
+            print('Done')
         static[path] = raw
+        print('   Done')
+    print('  Done')
+    print(' Done')
     return static
 
 
 def get_other():
-    return {
+    print(' Adding other files...', end=' ')
+    other = {
         '.nojekyll': b'',
         'index.html': get_document(
             'README.md', 'document', title='PolyFanTribes Home'
         ),
         'CNAME': b'fantribes.polytopia.fun'
     }
+    print('Done')
+    return other
 
 
 def write_files():
+    print('Generating site...')
     files = {**get_tribes(), **get_static(), **get_other()}
     if os.path.exists('docs'):
+        print(' Removing existing folder...', end=' ')
         shutil.rmtree('docs')
+        print('Done')
+    print(' Creating folder...', end=' ')
     os.mkdir('docs')
+    print('Done')
+    print(' Writing files...')
     for path in files:
+        print(f'  Writing file {path}...')
         fullpath = f'docs/{path}'
+        print('   Making necessary folders...', end=' ')
         os.makedirs(os.path.dirname(fullpath), exist_ok=True)
+        print('Done')
+        print(f'   Writing file to {fullpath}...', end=' ')
         with open(fullpath, 'wb') as f:
             f.write(files[path])
+        print('Done')
+        print('  Done')
+    print(' Done')
+    print('Done')
 
 
 if __name__ == '__main__':
