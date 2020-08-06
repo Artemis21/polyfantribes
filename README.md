@@ -4,27 +4,28 @@ An archive of Polytopia fan-made tribes from the [Polytopia Fan Ideas Discord Se
 
 ## Tribes
 
-| A | C-G | G-L | M | N-S | S-Z |
-| --- | --- | --- | --- | --- | --- |
-| [Alchemistres](tribes/alchemistres) | [Crusondar](tribes/crusondar) | [Gweni](tribes/gweni) | [Machinsk](tribes/machinsk) | [Nocturnus](tribes/nocturnus) | [Symokna](tribes/symokna) |
-| [Almentha](tribes/almentha) | [Crysjhem](tribes/crysjhem) | [Hyvers](tribes/hyvers) | [Marahat](tribes/marahat) | [Paneter](tribes/paneter) | [Thundina](tribes/thundina) |
-| [Armada](tribes/armada) | [Dwadram](tribes/dwadram) | [Kaphelta](tribes/kaphelta) | [Melgurshk](tribes/melgurshk) | [Peekaboo](tribes/peekaboo) | [Urghurgh](tribes/urghurgh) |
-| [Asarai](tribes/asarai) | [Florpictra](tribes/florpictra) | [Klorestro](tribes/klorestro) | [Mindranii](tribes/mindranii) | [Quatzi](tribes/quatzi) | [Volarskha](tribes/volarskha) |
-| [Assassina](tribes/assassina) | [Ghyrmabir](tribes/ghyrmabir) | [Kushar](tribes/kushar) | [Morcher](tribes/morcher) | [Saywaden](tribes/saywaden) | [Woospent](tribes/woospent) |
-| [Azanah](tribes/azanah) | [Golderum](tribes/golderum) | [Laturis](tribes/laturis) | [Multarius](tribes/multarius) | [Scraji](tribes/scraji) | [Zufallilt](tribes/zufallilt) |
+| A-C | D-K | K-M | M-Q | S-Z |
+| --- | --- | --- | --- | --- |
+| [Alchemistres](tribes/alchemistres) | [Dakwiza](tribes/dakwiza) | [Kushar](tribes/kushar) | [Multarius](tribes/multarius) | [Saywaden](tribes/saywaden) |
+| [Almentha](tribes/almentha) | [Dwadram](tribes/dwadram) | [Klorestro](tribes/klorestro) | [Morcher](tribes/morcher) | [Scraji](tribes/scraji) |
+| [Armada](tribes/armada) | [Florpictra](tribes/florpictra) | [Laturis](tribes/laturis) | [Nocturnus](tribes/nocturnus) | [Symokna](tribes/symokna) |
+| [Asarai](tribes/asarai) | [Ghyrmabir](tribes/ghyrmabir) | [Lrriic](tribes/lrriic) | [Pallandari](tribes/pallandari) | [Thundina](tribes/thundina) |
+| [Assassina](tribes/assassina) | [Golderum](tribes/golderum) | [Machinsk](tribes/machinsk) | [Paneter](tribes/paneter) | [Urghurgh](tribes/urghurgh) |
+| [Azanah](tribes/azanah) | [Gweni](tribes/gweni) | [Marahat](tribes/marahat) | [Peekaboo](tribes/peekaboo) | [Volarskha](tribes/volarskha) |
+| [Crusondar](tribes/crusondar) | [Hyvers](tribes/hyvers) | [Melgurshk](tribes/melgurshk) | [Poartia](tribes/poartia) | [Woospent](tribes/woospent) |
+| [Crysjhem](tribes/crysjhem) | [Kaphelta](tribes/kaphelta) | [Mindranii](tribes/mindranii) | [Quatzi](tribes/quatzi) | [Zufallilt](tribes/zufallilt) |
 
 ## Credits
 
 ### Tribe creators
 
-| C-L | N-T | T-Y |
-| --- | --- | --- |
-| ! Chicago - Old Days (2002)#3407 | Nyrrv#4841 | TheSignMaker#8324 |
-| Ⴚrim Squeaker#1224 | praisetheyuppee#4071 | THomez#3628 |
-| Joxteoz#6691 | Skookgasm#7416 | Twig1522#0756 |
-| KV-2#6983 | Some guy#7671 | Ultragameboy#6443 |
-| Leah1010#8043 | T Shadow#7569 | Woof777#7359 |
-| LinneaBorealis#9858 | ThatOneKid#5541 | You Verona#6735 |
+| C-J | K-P | S-T | T-W |
+| --- | --- | --- | --- |
+| ! Chicago - Old Days (2002)#3407 | KV-2#6983 | Skookgasm#7416 | T Shadow#7569 |
+| 1ChillAnimator\|Ai-Mo Minister#3687 | Leah1010#8043 | Some guy#7671 | Twig1522#0756 |
+| Grass#4931 | LinneaBorealis#9858 | ThatOneKid#5541 | Ultragameboy#6443 |
+| Ⴚrim Squeaker#1224 | Nyrrv#4841 | TheSignMaker#8324 | You Verona#6735 |
+| Joxteoz#6691 | praisetheyuppee#4071 | THomez#3628 | Woof777#7359 |
 
 ### Concept artists
 
