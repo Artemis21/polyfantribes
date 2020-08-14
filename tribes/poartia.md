@@ -46,17 +46,25 @@ Factory
 | replaces | name | cost | health | attack | defence | range | movement | skills |
 |:---------|:-----|:----:|:------:|:------:|:-------:|:-----:|:--------:|:-------|
 | Catapult | Terra Mech | 8 | 12 | 3 | 2 | 2 | 1 | - |
-| Giant | Baby Tripod | N/A | 20 | 2 | 2 | 1 | 2 | Grow, Move Enemy |
-| Giant | Tripod | N/A | 25 | 2 | 3 | Move Unit |
+| Giant | Tripod Stage 1 | N/A | 20 | 2 | 2 | 1 | 2 | Grow 1, Move Enemy |
+| Giant | Tripod Stage 2 | N/A | 25 | 2 | 3 | 1 | 2 | Grow 2, Move Unit |
+| Giant | Tripod Stage 3 | N/A | 30 | 4 | 4 | 1 | 2 | Move Unit, Remove Roads |
 
 The Terra Mech is a steam-based bio-machine, and attacks using a jet of boiled water.
 
 ## Skills
 
+Grow 1
 
-Grow
+- this unit will grow into a Tripod Stage 2 after 2 turns
 
-- this unit will grow into a Tripod after 2 turns
+Grow 2
+
+- this unit will grow into a Tripod Stage 3 after 2 turns
+
+Remove Roads
+
+- this unit can remove up to 2 enemy roads each turn
 
 Move Enemy
 
@@ -73,3 +81,8 @@ Move Unit
 --animal  
 ++fruits  
 ++mountains  
+
+
+## Images
+
+![The TerraMech](../images/poartia0.png)

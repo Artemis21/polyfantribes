@@ -1,8 +1,8 @@
 # Alchemistres
 
-*Elves, dragons, giants. In a world of such magic, is there not wizardry?*
-
 ![author](https://img.shields.io/badge/author-!%20Chicago%20--%20Old%20Days%20(2002)%233407-%237289DA)
+
+*Elves, dragons, giants. In a world of such magic, is there not wizardry?*
 
 ---
 

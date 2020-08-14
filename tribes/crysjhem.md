@@ -31,6 +31,16 @@ Windmill -> Crystal Tower
 - produces 1 pop for every nearby mine or quarry
 - makse the 8 tiles surrounding it have infinite movement point cost (like mountains)
 
+## Spawn rates
+
+Field, Fruit: Normal
+Field, Crop: Normal
+Forest: Decreased
+Forest, Game: Normal
+Mountains: Increased
+Mountains, Ore: Increased
+Fish: Decreased
+
 ## Images
 
 ![A Crysjhem warrior](../images/crysjhem0.png)
