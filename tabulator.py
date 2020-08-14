@@ -38,7 +38,7 @@ def tabulate_tribes():
     """Create a table for the tribes."""
     tribes = {}
     for tribe in os.listdir('tribes'):
-        tribes[tribe[:-3].title()] = 'tribes/' + tribe
+        tribes[tribe[:-3].title()] = 'tribes/' + tribe[:-3]
     table = tabulate(list(tribes))
     for tribe in tribes:
         table = table.replace(tribe, f'[{tribe}]({tribes[tribe]})')
