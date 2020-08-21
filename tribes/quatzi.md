@@ -8,7 +8,8 @@
 
 ## Spawn rates
 
-- low ammount of forests
+- low amount of forests
+- low amount of fruit
 - no animals
 - Uxoi fish have a 25% chance to spawn instead of a normal fish next to a Quatzï land tile
 
@@ -36,6 +37,7 @@ Fish
 - only usuable if the unit has collected bait
 - it and cause a fish (or possibly an Uxoi fish) to appear on a selected shallow water tile adjacent to it
 - this consumes the bait it has collected
+- cannot fish on ports
 
 Collect Bait
 

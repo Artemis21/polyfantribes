@@ -30,7 +30,7 @@ def tabulate(items: typing.List[str]):
     print(items)
     items = [[column[i] for column in items] for i in range(columns + 1)]
     items = ['| ' + ' | '.join(row) + ' |' for row in items]
-    items.insert(1, ('| --- ' * columns) + ' |')
+    items.insert(1, ('| --- ' * rows) + '|')
     return '\n'.join(items)
 
 

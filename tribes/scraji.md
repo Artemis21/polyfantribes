@@ -58,3 +58,7 @@ Fishing, Whaling, Aquatism, Harpooning (unlocks Harpooner)
 ## Mechanics
 
 The Scraji have one major disadvantage: all of their techs cost slightly more from the start, effectively making them a t3 capital upgrade tribe at best. On the other hand, ruins have a higher spawn chance within their natural terrain, so they could possibly get techs from those too if they are lucky.
+
+### Spawn Rates
+
+Increased forests, increased ruins, decreased farms.  

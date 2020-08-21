@@ -10,15 +10,58 @@ The Icareans start with the Aerowarfare tech.
 
 ## Tech
 
-Aerowarfare
+Aerowarfare replaces Sailing
 
 - allows building Landing Pads
+
+Planemaker replaces Navigation but is locked behind Aerotism
+
+- allows upgrading Airships to Skypiercers and Dutchmen
+
+Aerotism replaces Aquatism
+
+Shields
+
+- does not allow Defenders
+
+Archery
+
+- does not allow Archers
+
+Mathematics
+
+- does not allow Catapults
+
+Philosophy
+
+- does not allow Mind Benders
+
+Abandon Ship replaces Free Spirit
+
+- allows flying units to crash their ships into enemies and leap out to avoid being damaged themeselves
+- still allows disbanding units
  
 ## Buildings
 
 Landing Pads
 
 - like ports, but puts units in Airships
+
+## Units
+
+| Name | Skills | Upgrades |
+| --- | --- | --- |
+| Airship | Carry, Fly, Crash | Skypiercer (requires Planemaker tech) |
+| Skypiercer | Carry, Fly, Crash | Dutchman (requires Planemaker tech) |
+
+## Skills
+
+Crash
+
+- when this unit dies, it will crash land into the nearest enemy unit
+- this causes high damage to the enemy unit, equal to `(level * health) / 5`
+- `level` is 1 for Airships, 2 for Skypiercers and 3 for Dutchmen
+- `health` is the health of the Airship
 
 ## Cosmetics
 
@@ -30,4 +73,4 @@ Fruit: Peppers. They look different and far spicier than Ai-Mo’s. Birds eat pe
 
 Animal: Dodos. Birds that can’t fly. They look more like ostriches when they’re covered in armor by Riders and Knights, though.
 
-Tribe ambience: Recordings of actual bird noises in the wild mixed with wind wooshing
+Tribe ambience: Recordings of actual bird noises in the wild mixed with wind wooshing.

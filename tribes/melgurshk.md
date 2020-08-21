@@ -62,6 +62,10 @@ Leech
 
 - all of the damage dealt by a Leech is given as health to the Leecher
 
+## Spawn Rates
+
+Increased farms.
+
 ## Images
 
 ![A Melgursh'k Warrior](../images/melgurshk0.png)

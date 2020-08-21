@@ -67,6 +67,17 @@ Curse
 
 - the unit's targets turn into bats
 
+## Cosmetics
+
+Animal: Sheep  
+
+Mountain: High mountain with a cave entry in the middle (red eyes can be seen in the cave).  
+
+Forest: Gray trees with black leaves.  
+
+Fruit: Nightvenos, only trained warriors of nocturnus can eat this fruit, since it's very poisonous (based on the nightshade plant).
+
+
 ## Images
 
 ![A Nocturnus warrior](../images/nocturnus0.jpg)

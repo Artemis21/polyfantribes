@@ -76,11 +76,19 @@ Move Unit
 
 - like Move Enemy, but also works for friendly units
 
-## Terrain Modifiers
+## Spawn Rates
 
---animal  
-++fruits  
-++mountains  
+Greatly decreased animals, greatly increased fruit and mountains.
+
+## Cosmetics
+
+Fruit: Light Herbs, they have a taste that is sweet and also sour, look like pomelos, but are red and glowing.  
+
+Forests: Tall birch trees, with a red colored trunk, and very, very light green leaves.  
+
+Animals: Pengogs - little animals that look like pigs.  
+
+Mountains: Covered with water on the bottom, extremly tall, and some are snow capped.
 
 
 ## Images
