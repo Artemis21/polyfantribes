@@ -60,3 +60,11 @@ Any laturis unit in its own forest temple gets a x2 defense bonus.
 ## Images
 
 ![Walking Willow](../images/laturis0.png)
+
+![Walking Willow Icon](../images/laturis1.png)
+
+![The Laturis fruit, the Peamkich](../images/laturis2.png)
+
+![A Laturis mountain](../images/laturis3.png)
+
+![A Laturis warrior](../images/laturis4.png)
