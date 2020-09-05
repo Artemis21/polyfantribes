@@ -1,16 +1,16 @@
 # polyfantribes
 
-An archive of Polytopia fan-made tribes from the [Polytopia Fan Ideas Discord Server](https://discord.gg/e7ruK9d), written up by Artemis#2121.
+An archive of Polytopia fan-made tribes from the three Polytopia fan made tribe discord servers ([Polytopia Special FMTs](https://discord.gg/cKfxYXy), [Polytopia Regular FMTs](https://discord.gg/HtRuW2u) and [Fan Tribes Archive](https://discord.gg/fdqY8XP)), written up by Artemis#2121.
 
 ## Tribes
 
-| A-A | A-D | F-H | I-L | L-M | M-P | P-S | S-V | W-Z |
+| A-A | A-D | D-G | G-K | K-M | M-M | N-P | Q-T | T-Z |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Alchemistres](tribes/alchemistres) | [Azanah](tribes/azanah) | [Florpictra](tribes/florpictra) | [Icarean](tribes/icarean) | [Lrriic](tribes/lrriic) | [Morcher](tribes/morcher) | [Peekaboo](tribes/peekaboo) | [Symokna](tribes/symokna) | [Woospent](tribes/woospent) |
-| [Almentha](tribes/almentha) | [Crusondar](tribes/crusondar) | [Ghyrmabir](tribes/ghyrmabir) | [Kaphelta](tribes/kaphelta) | [Machinsk](tribes/machinsk) | [Multarius](tribes/multarius) | [Poartia](tribes/poartia) | [Thundina](tribes/thundina) | [Zufallilt](tribes/zufallilt) |
-| [Armada](tribes/armada) | [Crysjhem](tribes/crysjhem) | [Golderum](tribes/golderum) | [Klorestro](tribes/klorestro) | [Marahat](tribes/marahat) | [Nocturnus](tribes/nocturnus) | [Quatzi](tribes/quatzi) | [Turzu](tribes/turzu) |   |
-| [Asarai](tribes/asarai) | [Dakwiza](tribes/dakwiza) | [Gweni](tribes/gweni) | [Kushar](tribes/kushar) | [Melgurshk](tribes/melgurshk) | [Pallandari](tribes/pallandari) | [Saywaden](tribes/saywaden) | [Urghurgh](tribes/urghurgh) |   |
-| [Assassina](tribes/assassina) | [Dwadram](tribes/dwadram) | [Hyvers](tribes/hyvers) | [Laturis](tribes/laturis) | [Mindranii](tribes/mindranii) | [Paneter](tribes/paneter) | [Scraji](tribes/scraji) | [Volarskha](tribes/volarskha) |   |
+| [Alchemistres](tribes/alchemistres) | [Azanah](tribes/azanah) | [Dwadram](tribes/dwadram) | [Gweni](tribes/gweni) | [Kushar](tribes/kushar) | [Marahat](tribes/marahat) | [Nocturnus](tribes/nocturnus) | [Quatzi](tribes/quatzi) | [Turzu](tribes/turzu) |
+| [Almentha](tribes/almentha) | [Balkhanu](tribes/balkhanu) | [Enoril](tribes/enoril) | [Hyvers](tribes/hyvers) | [Laturis](tribes/laturis) | [Melgurshk](tribes/melgurshk) | [Pallandari](tribes/pallandari) | [Saywaden](tribes/saywaden) | [Urghurgh](tribes/urghurgh) |
+| [Armada](tribes/armada) | [Crusondar](tribes/crusondar) | [Florpictra](tribes/florpictra) | [Icarean](tribes/icarean) | [Lrriic](tribes/lrriic) | [Mindranii](tribes/mindranii) | [Paneter](tribes/paneter) | [Scraji](tribes/scraji) | [Volarskha](tribes/volarskha) |
+| [Asarai](tribes/asarai) | [Crysjhem](tribes/crysjhem) | [Ghyrmabir](tribes/ghyrmabir) | [Kaphelta](tribes/kaphelta) | [Lumberin](tribes/lumberin) | [Morcher](tribes/morcher) | [Peekaboo](tribes/peekaboo) | [Symokna](tribes/symokna) | [Woospent](tribes/woospent) |
+| [Assassina](tribes/assassina) | [Dakwiza](tribes/dakwiza) | [Golderum](tribes/golderum) | [Klorestro](tribes/klorestro) | [Machinsk](tribes/machinsk) | [Multarius](tribes/multarius) | [Poartia](tribes/poartia) | [Thundina](tribes/thundina) | [Zufallilt](tribes/zufallilt) |
 
 ## Credits
 
@@ -26,6 +26,7 @@ An archive of Polytopia fan-made tribes from the [Polytopia Fan Ideas Discord Se
 
 ### Concept artists
 
+- Artemis#2121
 - Grass#4931
 - Ⴚrim Squeaker#1224
 - Nyrrv#4841

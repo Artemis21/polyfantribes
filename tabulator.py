@@ -18,7 +18,6 @@ def find_shape(items: int):
 
 def tabulate(items: typing.List[str]):
     """Turn a list into a markdown table."""
-    items.sort()
     rows, columns = find_shape(len(items))
     extra = (rows * columns) - len(items)
     items += [' '] * extra
@@ -39,7 +38,7 @@ def tabulate_tribes():
     tribes = {}
     for tribe in os.listdir('tribes'):
         tribes[tribe[:-3].title()] = 'tribes/' + tribe[:-3]
-    table = tabulate(list(tribes))
+    table = tabulate(list(sorted(tribes)))
     for tribe in tribes:
         table = table.replace(tribe, f'[{tribe}]({tribes[tribe]})')
     return table

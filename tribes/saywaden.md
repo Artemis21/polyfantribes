@@ -51,7 +51,7 @@ Land Slide
 Sand temple
 
 - has to be built on sand before it disappears and is worth 2 population
-- any Saywaden unit on it get +1 health and +1 defense
+- any Saywaden unit on it gets +1 health and +1 defense
 - usual temple score
 - costs 20 stars to build
 
@@ -88,3 +88,7 @@ Pan Ja Min Ti En Keb Cru Ser Ez Dil Ar We Sho Nup Hra Bes
 ## Images
 
 ![A Saywaden warrior](../images/saywaden0.png)
+
+![A Gaseli, the Saywaden animal](../images/saywaden1.png)
+
+![A Saywaden mountain](../images/saywaden2.png)

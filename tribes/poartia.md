@@ -94,3 +94,5 @@ Mountains: Covered with water on the bottom, extremly tall, and some are snow ca
 ## Images
 
 ![The TerraMech](../images/poartia0.png)
+
+![A Poartion warrior](../images/poartia1.png)

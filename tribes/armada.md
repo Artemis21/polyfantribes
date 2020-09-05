@@ -2,13 +2,13 @@
 
 ![author](https://img.shields.io/badge/author-THomez%233628-%237289DA)
 
-*The Armâda are the masters of the Sea's of the square and there is no water too hard for them to conquer.*
+*The Armâda are the masters of the seas of the square and there is no water too hard for them to conquer.*
 
 ---
 
 The Armâda start with the 'Sailing' tech.
 
-### Their spawn rates:
+### Spawn Rates
 
 Water: 50%  
 Land: 10%  
@@ -24,7 +24,7 @@ They start with a boat in one of the water tiles next to their capital.
 
 Animal: Lynx
 
-### Parts forming the cities names
+### City name syllables
 
 Ar O Se Ña U Jâ Ing Rî Ta I Sa Jo LL No Y D
 
