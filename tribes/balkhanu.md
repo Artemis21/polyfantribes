@@ -72,4 +72,4 @@ Increased mountain and land, greatly decreased forest. The Balkhanu cannot start
 
 ![A Balkhanu warhorse](../images/balkhanu0.png)
 
-![A Balkhanu head](../images/balhanu1.jpg)
+![A Balkhanu head](../images/balkhanu1.jpg)
