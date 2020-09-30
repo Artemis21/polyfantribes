@@ -27,3 +27,7 @@ Mountain: Double peaked, dark grey, with snowy caps.
 They have Cathedral-esque buildings, one of which has a cupola with a bell
 
 The tribe colour is a very light pink.
+
+## Images
+
+![Tribe Head](../images/enoril0.jpg)

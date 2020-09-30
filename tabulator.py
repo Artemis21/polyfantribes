@@ -21,12 +21,10 @@ def tabulate(items: typing.List[str]):
     rows, columns = find_shape(len(items))
     extra = (rows * columns) - len(items)
     items += [' '] * extra
-    print(items, rows, columns)
     items = [
         [f'{items[i][0]}-{items[i + columns - 1][0]}', *items[i:i + columns]]
         for i in range(0, len(items), columns)
     ]
-    print(items)
     items = [[column[i] for column in items] for i in range(columns + 1)]
     items = ['| ' + ' | '.join(row) + ' |' for row in items]
     items.insert(1, ('| --- ' * rows) + '|')
