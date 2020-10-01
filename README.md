@@ -11,6 +11,7 @@ An archive of Polytopia fan-made tribes from the three Polytopia fan made tribe 
 | [Armada](tribes/armada) | [Cercerci](tribes/cercerci) | [Enoril](tribes/enoril) | [Hellada](tribes/hellada) | [Kushar](tribes/kushar) | [Marahat](tribes/marahat) | [Multarius](tribes/multarius) | [Poartia](tribes/poartia) | [Symokna](tribes/symokna) | [Woospent](tribes/woospent) |
 | [Asarai](tribes/asarai) | [Crusondar](tribes/crusondar) | [Florpictra](tribes/florpictra) | [Hyvers](tribes/hyvers) | [Laturis](tribes/laturis) | [Melgurshk](tribes/melgurshk) | [Nocturnus](tribes/nocturnus) | [Quatzi](tribes/quatzi) | [Thundina](tribes/thundina) | [Zevxaurer](tribes/zevxaurer) |
 | [Assassina](tribes/assassina) | [Crysjhem](tribes/crysjhem) | [Ghyrmabir](tribes/ghyrmabir) | [Icarean](tribes/icarean) | [Lrriic](tribes/lrriic) | [Midrosaic](tribes/midrosaic) | [Pallandari](tribes/pallandari) | [Saywaden](tribes/saywaden) | [Turzu](tribes/turzu) | [Zufallilt](tribes/zufallilt) |
+
 ## Credits
 
 ### Tribe creators

@@ -47,7 +47,7 @@ Blessing
 | Knight | Beserker | 8 | 15 | 4 | 0 | 1 | 3 | Dash, Hidden Recovery, Counter |
 | Rider | Bloodhound | 3 | 10 | 2 | 1 | 1 | 2 | Dash, Escape, Bloodlust |
 | Mind Bender | Devotee | 5 | 10 | 0 | 1 | 1 | 2 | Convert, Escape, Devoted |
-| Giant | Guard of Cerec | N/A | 40 | 4 | 2 | 2 | Hidden Recovery, Special Counter, Escape, Fortify |
+| Giant | Guard of Cerec | N/A | 40 | 4 | 2 | 1 | 2 | Hidden Recovery, Special Counter, Escape, Fortify |
 
 ### Guard of Cerec Lore
 

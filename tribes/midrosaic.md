@@ -80,6 +80,6 @@ Glassmithing replaces Smithery
  - has a different icon to a forge, but works the same:
  - gives two population for every midrosan mountain near it with a meltery, and 1 for any other tribe mountain
 
-Class Cutting replaces Forestry
+Glass Cutting replaces Forestry
 
  - essentially the same thing with a different name and different icons
